@@ -1,0 +1,3000 @@
+keras-team/keras
+deep-learning tensorflow machine-learning python data-science neural-networks
+55.1k Python
+BVLC/caffe
+deep-learning machine-learning vision
+32.6k C++
+floodsung/Deep-Learning-Papers-Reading-Roadmap
+deep-learning
+32.3k Python
+ageron/handson-ml
+machine-learning jupyter-notebook python scikit-learn tensorflow deep-learning neural-network ml distributed
+24.4k Jupyter Notebook
+yunjey/pytorch-tutorial
+pytorch deep-learning pytorch-tutorial neural-networks
+23.7k Python
+terryum/awesome-deep-learning-papers
+machine-learning deep-neural-networks deep-learning
+23.7k TeX
+donnemartin/data-science-ipython-notebooks
+python aws data-science machine-learning caffe theano big-data spark deep-learning hadoop tensorflow numpy scikit-learn keras pandas kaggle scipy matplotlib mapreduce
+23k Python
+fastai/fastai
+deep-learning pytorch machine-learning python gpu colab notebooks fastai
+22.2k Jupyter Notebook
+eriklindernoren/ML-From-Scratch
+machine-learning deep-learning data-science data-mining genetic-algorithm deep-reinforcement-learning machine-learning-from-scratch
+21k Python
+apache/incubator-mxnet
+mxnet
+20k C++
+ChristosChristofidis/awesome-deep-learning
+deep-learning machine-learning awesome-list awesome neural-network recurrent-networks deep-learning-tutorial deep-networks face-images
+18.7k 
+lutzroeder/netron
+tensorflow deep-learning machine-learning tensorflow-lite pytorch neural-network onnx darknet caffe ai mxnet keras ml torch visualizer machinelearning deeplearning paddle caffe2 coreml
+18.6k JavaScript
+PaddlePaddle/Paddle
+deep-learning machine-learning neural-network python scalability efficiency paddlepaddle distributed-training
+18.1k C++
+microsoft/CNTK
+deep-learning machine-learning neural-network python java c-sharp c-plus-plus deep-neural-networks cntk distributed cognitive-toolkit
+17.2k C++
+ShusenTang/Dive-into-DL-PyTorch
+natural-language-processing computer-vision deep-learning pytorch deep-learning-tutorial d2l pytorch-tutorial
+14.8k Jupyter Notebook
+kailashahirwar/cheatsheets-ai
+deep-learning machine-learning keras numpy artificial-intelligence scipy matplotlib
+14.3k 
+ty4z2008/Qix
+go distributed-systems machine-learning awesome deep-learning postgresql distributed-computing distributed-database
+13.8k 
+d2l-ai/d2l-en
+deep-learning machine-learning python data-science natural-language-processing computer-vision mxnet book notebook tensorflow keras pytorch kaggle
+13.3k Python
+Unity-Technologies/ml-agents
+reinforcement-learning deep-learning machine-learning unity unity3d deep-reinforcement-learning neural-networks
+12.8k C#
+dragen1860/Deep-Learning-with-TensorFlow-book
+tensorflow python opensource book pytorch machinelearning deeplearning tensorflow2
+12.5k Jupyter Notebook
+eclipse/deeplearning4j
+java spark scala gpu python clojure hadoop intellij linear-algebra artificial-intelligence deeplearning neural-nets dl4j matrix-library deeplearning4j
+12.5k Java
+tensorflow/tensor2tensor
+deep-learning machine-learning reinforcement-learning machine-translation tpu
+12.2k Python
+ujjwalkarn/Machine-Learning-Tutorials
+machine-learning awesome-list deep-learning awesome list deep-neural-networks neural-network neural-networks machinelearning deeplearning deep-learning-tutorial
+12k 
+NLP-LOVE/ML-NLP
+deep-learning machine-learning nlp
+11.7k Jupyter Notebook
+hoya012/deep_learning_object_detection
+object-detection deep-learning deep-neural-networks deeplearning objectdetection
+10.5k Python
+graykode/nlp-tutorial
+nlp attention pytorch transformer natural-language-processing bert tutorial tensorflow paper
+10.5k Jupyter Notebook
+janishar/mit-deep-learning-book-pdf
+deep-learning machine-learning book pdf deeplearning neural-network learning good mit machine linear-algebra neural-networks print excercises lecture-notes chapter clear thinking printable
+10.2k Java
+chiphuyen/stanford-tensorflow-tutorials Public archive
+python nlp machine-learning natural-language-processing tutorial deep-learning course-materials tensorflow chatbot stanford
+10.2k Python
+kmario23/deep-learning-drizzle
+deep-learning machine-learning reinforcement-learning artificial-neural-networks natural-language-processing computer-vision deep-neural-networks optimization probability deep-reinforcement-learning medical-imaging speech-recognition pattern-recognition probabilistic-graphical-models bayesian-statistics artificial-intelligence-algorithms visual-recognition geometric-deep-learning explainable-ai graph-neural-networks
+10.1k HTML
+tflearn/tflearn
+deep-learning tensorflow neural-network machine-learning data-science tflearn
+9.6k Python
+dmlc/dgl
+deep-learning graph-neural-networks
+9.5k Python
+lexfridman/mit-deep-learning
+data-science machine-learning mit deep-learning tensorflow deep-reinforcement-learning artificial-intelligence neural-networks segmentation tensorflow-tutorials deeplearning jupyter-notebooks self-driving-cars deep-rl
+9.1k Jupyter Notebook
+WZMIAOMIAO/deep-learning-for-image-processing
+deep-learning pytorch classification segmentation bilibili object-detection tensorflow2
+8.7k Python
+labmlai/annotated_deep_learning_paper_implementations
+deep-learning pytorch transformer machine-learning reinforcement-learning transformers gan neural-networks deep-learning-tutorial optimizers
+8.5k Jupyter Notebook
+ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+machine-learning deep-learning artificial-intelligence python data-science nlp computer-vision awesome nlp-projects machine-learning-projects artificial-intelligence-projects computer-vision-project deep-learning-project
+8.5k 
+keras-team/autokeras
+machine-learning keras deep-learning automl python tensorflow automated-machine-learning neural-architecture-search autodl
+8.5k Python
+facebookarchive/caffe2 Public archive
+deep-learning machine-learning deep-neural-networks ai ml artificial-intelligence caffe2
+8.4k Shell
+ludwig-ai/ludwig
+deep-learning machine-learning pytorch neural-network ml python learning data-science natural-language-processing computer-vision machine natural-language deep datascience machinelearning deeplearning data-centric
+8.2k Python
+apache/tvm
+tensor deep-learning javascript machine-learning performance metal compiler gpu vulkan opencl spirv rocm tvm
+8k Python
+Mikoto10032/DeepLearning
+deep-learning machine-learning mxnet tensorflow cnn pytorch kaggle gan rnn machinelearning deeplearning gcn
+7.5k Jupyter Notebook
+brightmart/text_classification
+text-classification nlp tensorflow classification convolutional-neural-networks sentence-classification fasttext attention-mechanism multi-label memory-networks multi-class textcnn textrnn
+7.3k Python
+tensorlayer/TensorLayer
+deep-learning tensorflow reinforcement-learning neural-network python google chatbot artificial-intelligence gan dqn imagenet tensorflow-tutorials object-detection a3c tensorlayer tensorflow-tutorial
+7k Python
+google/trax
+deep-learning machine-learning reinforcement-learning numpy deep-reinforcement-learning transformer jax
+6.9k Python
+Kulbear/deep-learning-coursera Public archive
+deep-learning coursera
+6.8k Jupyter Notebook
+amusi/awesome-object-detection
+object-detection deep-learning computer-vision detection object-localisation
+6.8k 
+microsoft/DeepSpeed
+pytorch deep-learning machine-learning gpu inference data-parallelism model-parallelism pipeline-parallelism billion-parameters
+6.7k Python
+alibaba/MNN
+deep-learning vulkan machine-learning arm deep-neural-networks ml convolution embedded-devices mnn winograd-algorithm
+6.6k C++
+PaddlePaddle/models
+natural-language-processing computer-vision deep-learning neural-network speech recommendation paddlepaddle
+6.5k Python
+yenchenlin/DeepLearningFlappyBird
+game deep-learning deep-reinforcement-learning
+6.3k Python
+ufoym/deepo
+deep-learning pytorch mxnet caffe lasagne theano jupyter chainer cntk tensorflow docker-image keras torch caffe2 sonnet dockerfile-generator onnx
+6.2k Python
+PaddlePaddle/Paddle-Lite
+arm mobile embedded fpga deep-learning neural-network mali baidu mdl mobile-deep-learning
+6k C++
+shenweichen/DeepCTR
+deep-learning factorization-machines recommendation mlr ffm ctr din deepfm click-through-rate xdeepfm deepinterestnetwork nfm deepcross autoint esmm dien deepinterestevolutionnetwork nffm fgcnn mmoe
+5.9k Python
+mozilla/TTS
+tts pytorch speech text-to-speech deep-learning python vocoder tacotron tensorflow2 tacotron2 melgan speaker-encoder dataset-analysis glow-tts multiband-melgan gantts
+5.8k Jupyter Notebook
+h2oai/h2o-3
+machine-learning java big-data python spark data-science multi-threading opensource r deep-learning hadoop random-forest gpu naive-bayes h2o distributed pca gbm ensemble-learning automl
+5.8k Jupyter Notebook
+Atcold/pytorch-Deep-Learning
+deep-learning pytorch jupyter-notebook neural-nets
+5.8k Jupyter Notebook
+deepmipt/DeepPavlov
+nlp machine-learning chatbot question-answering tensorflow deep-learning bot deep-neural-networks ai artificial-intelligence named-entity-recognition chitchat nlp-machine-learning dialogue-agents dialogue-systems slot-filling entity-extraction dialogue-manager intent-classification intent-detection
+5.7k Python
+chainer/chainer
+machine-learning deep-learning neural-network cuda gpu python chainer numpy neural-networks cudnn cupy
+5.7k Python
+microsoft/MMdnn
+caffe mxnet onnx tensorflow keras darknet visualization cntk pytorch coreml model-converter
+5.6k Python
+dusty-nv/jetson-inference
+object-detection deep-learning jetson-nano tensorrt machine-learning computer-vision caffe embedded robotics inference nvidia digits image-recognition segmentation jetson-tx1 jetson jetson-tx2 video-analytics jetson-xavier jetson-xavier-nx
+5.6k C++
+tiny-dnn/tiny-dnn
+c-plus-plus machine-learning deep-learning neural-network
+5.5k C++
+dformoso/machine-learning-mindmap
+python learning science data machine-learning jupyter machine cheatsheet mindmap
+5.4k 
+aymericdamien/TopDeepLearning
+deep-learning machine-learning tensorflow pytorch
+5.4k Python
+nl8590687/ASRT_SpeechRecognition
+speech-recognition tensorflow python keras cnn python3 speech-to-text ctc chinese-speech-recognition asrt
+5.3k Python
+afshinea/stanford-cs-230-deep-learning
+deep-learning convolutional-neural-networks data-science recurrent-neural-networks cheatsheet
+5.3k 
+keras-rl/keras-rl
+reinforcement-learning keras machine-learning theano tensorflow neural-networks
+5.2k Python
+NVIDIA/TensorRT
+nvidia tensorrt deep-learning
+5.2k C++
+aamini/introtodeeplearning
+deep-learning mit computer-vision tensorflow deep-reinforcement-learning neural-networks tensorflow-tutorials deeplearning jupyter-notebooks music-generation algorithmic-bias
+5.2k Jupyter Notebook
+huseinzol05/Stock-Prediction-Models
+deep-learning lstm monte-carlo trading-bot stock-market stock-price-prediction seq2seq learning-agents stock-price-forecasting evolution-strategies lstm-sequence stock-prediction-models deep-learning-stock strategy-agent monte-carlo-markov-chain
+5.1k Jupyter Notebook
+arogozhnikov/einops
+pytorch deep-learning numpy chainer tensorflow keras tensor gluon cupy jax
+4.8k Python
+evilsocket/pwnagotchi
+ai deep-learning deep-reinforcement-learning wpa-psk bettercap deep-neural-network handshakes
+4.8k JavaScript
+tangyudi/Ai-Learn
+pytorch deep-learning keras python numpy pandas nlp data-science machine-learning data-mining algorithm caffe tensorflow cv mathematics seaborn artificial-intelligence data-analysis matplotlib tensorflow2
+4.8k 
+coqui-ai/TTS
+speech-synthesis pytorch tts text-to-speech speech deep-learning python vocoder voice-synthesis tacotron voice-cloning speaker-encodings melgan speaker-encoder multi-speaker-tts glow-tts hifigan tts-model
+4.7k Python
+mbadry1/DeepLearning.ai-Summary
+deep-learning coursera neural-network andrew-ng
+4.7k Python
+aidlearning/AidLearning-FrameWork
+android python linux terminal jupyter opencl vscode python-for-android aiot tflite linux-android aios android-linux-ai linux-on-android android-hacking py2apk android-opencl android-linux macos-on-android
+4.6k Python
+XiaoMi/mace
+deep-learning machine-learning neural-network neon opencl hvx
+4.6k C++
+udacity/deep-learning-v2-pytorch
+deep-learning pytorch sentiment-analysis neural-network recurrent-networks style-transfer convolutional-networks
+4.6k Jupyter Notebook
+tensorspace-team/tensorspace
+deep-learning tensorflow visualization threejs machine-learning keras 3d nerual-network tfjs
+4.6k JavaScript
+thu-ml/tianshou
+pytorch dqn ppo benchmark library policy-gradient rl cql atari ddpg imitation-learning sac drl npg double-dqn trpo mujoco a2c td3 bcq
+4.6k Python
+jeffheaton/t81_558_deep_learning
+machine-learning keras tensorflow convolutional-neural-networks neural-network gan deeplearning
+4.5k Jupyter Notebook
+activeloopai/Hub
+pytorch deep-learning machine-learning python data-science ai computer-vision tensorflow cv jupyter-notebook image-processing ml cloud-computing gsoc datasets data-processing data-version-control data-pipelines data-centric mlops
+4.5k Python
+Spandan-Madan/DeepLearningProject
+deep-learning tutorial machine-learning neural-networks
+4.4k HTML
+janhuenermann/neurojs
+reinforcement-learning deep-learning machine-learning neural-network javascript self-driving-car
+4.3k JavaScript
+PaddlePaddle/VisualDL
+visualization caffe deep-learning paddlepaddle onnx
+4.3k TypeScript
+KevinMusgrave/pytorch-metric-learning
+pytorch metric-learning machine-learning computer-vision deep-learning image-retrieval deep-metric-learning self-supervised-learning contrastive-learning
+4.3k Python
+instillai/deep-learning-roadmap
+deep-learning resources
+4.3k Python
+hunkim/DeepLearningZeroToAll
+tensorflow python keras tutorial mxnet lab pytorch
+4.3k Jupyter Notebook
+MingchaoZhu/DeepLearning
+deep-learning machine-learning python xgboost ensemble-learning bayesian regularization
+4.3k Python
+udacity/deep-reinforcement-learning
+reinforcement-learning deep-reinforcement-learning dqn ppo reinforcement-learning-algorithms openai-gym pytorch neural-networks dynamic-programming hill-climbing ddpg cross-entropy openai-gym-solutions pytorch-rl ml-agents rl-algorithms
+4.1k Jupyter Notebook
+NVIDIA/DIGITS
+deep-learning machine-learning caffe gpu torch
+4.1k HTML
+amusi/Deep-Learning-Interview-Book
+deep-learning machine-learning natural-language-processing computer-vision interview recommendation-system slam
+4k 
+NervanaSystems/neon
+python fast performance deep-learning neural-network neon mkl
+3.9k Python
+dsgiitr/d2l-pytorch
+pytorch deep-learning nlp data-science computer-vision mxnet book d2l pytorch-implmention dive-into-deep-learning
+3.9k Jupyter Notebook
+wang-xinyu/tensorrtx
+yolov3 yolov4 vgg resnet squeezenet inceptionv3 resnext tensorrt crnn senet arcface mobilenetv2 shufflenetv2 mnasnet retinaface mobilenetv3 yolov3-spp yolov5 detr swin-transformer
+3.9k C++
+NVIDIA/DALI
+python machine-learning deep-learning neural-network mxnet gpu image-processing pytorch gpu-tensorflow data-processing data-augmentation audio-processing paddle image-augmentation fast-data-pipeline
+3.8k C++
+charlesq34/pointnet
+point-cloud segmentation neural-network tensorflow classification geometry-processing
+3.7k Python
+leoxiaobin/deep-high-resolution-net.pytorch
+deep-learning human-pose-estimation mpii-dataset mpii mscoco-keypoint coco-keypoints-detection deep-high-resolution-net high-resolution-net
+3.7k Cuda
+naganandy/graph-based-deep-learning-literature
+deep-learning graph graph-neural-networks graph-convolutional-networks neural-networks graph-representation-learning conference-publications
+3.6k Jupyter Notebook
+deepchem/deepchem
+deep-learning biology drug-discovery quantum-chemistry materials-science hacktoberfest
+3.6k Python
+Tencent/TNN
+deep-learning tensorflow face-detection ocr inference pytorch tengine tensorrt mnn coreml ncnn openvino hairsegmentaion
+3.5k C++
+alirezadir/Production-Level-Deep-Learning
+machine-learning deep-learning ai deployment pipeline artificial-intelligence scalable-applications system-design practical-machine-learning kubeflow tfx production-system
+3.5k 
+TrickyGo/Dive-into-DL-TensorFlow2.0
+nlp deep-learning book cv jupyter-notebook tutorials python3 chinese-simplified tensorflow2 dive-into-deep-learning
+3.5k Jupyter Notebook
+andri27-ts/Reinforcement-Learning
+reinforcement-learning deep-reinforcement-learning deep-learning machine-learning qlearning artificial-intelligence dqn deepmind evolution-strategies ppo a2c policy-gradients
+3.4k Jupyter Notebook
+simoninithomas/Deep_reinforcement_learning_Course
+deep-learning deep-reinforcement-learning pytorch qlearning unity tensorflow tensorflow-tutorials deep-q-network actor-critic deep-q-learning ppo a2c
+3.3k Jupyter Notebook
+KaiyangZhou/deep-person-reid
+machine-learning deep-neural-networks computer-vision deep-learning re-ranking pytorch metric-learning cross-domain image-retrieval person-reidentification person-reid
+3.3k Python
+Oneflow-Inc/oneflow
+deep-learning cuda machine-learning deep-neural-networks neural-network ml distributed
+3.3k C++
+deep-learning-with-pytorch/dlwpt-code
+deep-learning pytorch python deep-neural-networks python3
+3.3k Jupyter Notebook
+ahkarami/Deep-Learning-in-Production
+deep-learning pytorch keras mxnet python flask react angularjs c-plus-plus tutorial deep-neural-networks rest-api production tensorflow-models tesnorflow model-serving caffe2 serving serving-pytorch-models convert-pytorch-models
+3.2k 
+astorfi/Deep-Learning-Roadmap
+reinforcement-learning deep-learning
+3.1k Python
+vijishmadhavan/ArtLine
+machine-learning ai deep-learning creative-coding colab generative-art movie-poster portraits nogan nogan-training art-portraits
+3.1k Jupyter Notebook
+openvinotoolkit/open_model_zoo
+openvino demo model-zoo model models cnn-model caffemodel tensorflow-models deep-learning-models
+3.1k Python
+TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
+deep-learning machine-learning pytorch neural-network tensorflow artificial-intelligence python convolutional-neural-networks scikit-learn aws lua keras ipython-notebook torch pandas kaggle matplotlib tensorflow-tutorials python-data capsule-network
+3.1k Python
+ysh329/deep-learning-model-convertor
+deep-learning caffe pytorch mxnet neural-network tensorflow model keras torch awesome-list convertor deep-learning-framework model-convertor caffe2
+3.1k 
+sbrugman/deep-learning-papers
+deep-learning machine-learning science neural-networks arxiv papers deep-learning-papers
+3.1k 
+robmarkcole/satellite-image-deep-learning
+deep-learning machine-learning image-classification convolutional-neural-networks keras classification remote-sensing satellite-imagery python deep-neural-networks tensorflow pytorch sentinel dataset datasets satellite-data satellite-images
+3k 
+NVIDIAGameWorks/kaolin
+model-zoo pytorch artificial-intelligence neural-networks 3d-deep-learning differentiable-rendering
+3k Python
+Azure/MachineLearningNotebooks
+machine-learning azure deep-learning data-science notebook azure-machine-learning azureml azure-ml
+3k Jupyter Notebook
+DeepLabCut/DeepLabCut
+pose-estimation deep-learning toolbox behavior-analysis labeling-tool feature-detectors keypoint-tracking deeplabcut keypoint-detection animal-pose-estimation
+3k Python
+yusugomori/DeepLearning
+deep-learning
+2.9k Java
+Layout-Parser/layout-parser
+ocr deep-learning computer-vision object-detection document-image-processing layout-analysis document-layout-analysis detectron2 layout-parser layout-detection
+2.9k Python
+DeepGraphLearning/LiteratureDL4Graph
+machine-learning deep-learning arxiv papers
+2.9k 
+catalyst-team/catalyst
+pytorch deep-learning machine-learning image-classification python infrastructure natural-language-processing information-retrieval research reinforcement-learning computer-vision text-classification distributed-computing image-processing metric-learning recommender-system object-detection image-segmentation reproducibility text-segmentation
+2.9k Python
+leriomaggio/deep-learning-keras-tensorflow
+deep-learning keras tensorflow python tutorial theano anaconda keras-tutorials cudnn keras-tensorflow
+2.9k Jupyter Notebook
+Conchylicultor/DeepQA
+tensorflow deep-learning chatbot seq2seq
+2.8k Python
+IntelLabs/nlp-architect
+nlp deep-learning pytorch tensorflow nlu transformers deeplearning quantization bert dynet
+2.8k Python
+clovaai/deep-text-recognition-benchmark
+ocr deep-learning recognition text-recognition rosetta ocr-recognition rare crnn scene-text scene-text-recognition grcnn r2am star-net iccv2019
+2.8k Jupyter Notebook
+jisungk/deepjazz
+deep-learning keras music machine-learning theano lstm neural-networks rnn jazz
+2.8k Python
+alibaba/euler
+deep-learning graph network-embedding random-walk graph-convolutional-networks gcn node2vec graph-embedding graph-learning graphsage graph-neural-networks ggnn
+2.7k C++
+ikostrikov/pytorch-a2c-ppo-acktr-gail
+reinforcement-learning pytorch deep-reinforcement-learning deep-learning ppo atari hessian second-order continuous-control actor-critic ale mujoco proximal-policy-optimization advantage-actor-critic a2c acktr natural-gradients roboschool kfac kronecker-factored-approximation
+2.7k Python
+rasbt/deep-learning-book
+python data-science machine-learning deep-learning neural-network tensorflow pytorch artificial-intelligence
+2.7k Jupyter Notebook
+Picovoice/porcupine
+raspberry-pi nodejs javascript android python java swift iot ios deep-learning cortex-m voice-commands webassembly voice-control hotword-detection keyword-spotting wake-word-detection wakeword hotword trigger-word-detection
+2.7k TypeScript
+chrieke/awesome-satellite-imagery-datasets
+satellite-imagery object-detection deep-learning instance-segmentation remote-sensing computer-vision machine-learning earth-observation
+2.7k 
+apache/singa
+deep-learning
+2.6k C++
+robi56/Deep-Learning-for-Recommendation-Systems
+deep-learning recommender-system collaborative-filtering python machine-learning neural-network tensorflow music-recommendation hybrid-recommendation
+2.5k 
+endymecy/awesome-deeplearning-resources
+deep-learning reinforcement-learning nlp video neural-network code paper corpus modelzoo
+2.5k 
+osmr/imgclsmob
+deep-learning pytorch imagenet image-classification tensorflow machine-learning neural-network mxnet chainer keras classification segmentation human-pose-estimation pretrained-models gluon cifar semantic-segmentation 3d-face-reconstruction tensorflow2
+2.5k Python
+explosion/thinc
+python deep-learning pytorch machine-learning nlp natural-language-processing ai mxnet functional-programming tensorflow artificial-intelligence spacy machine-learning-library type-checking jax
+2.5k Python
+junyanz/interactive-deep-colorization
+deep-learning computer-vision caffe interactive deep-learning-algorithms colorization automatic-colorization
+2.5k Python
+deepjavalibrary/djl
+deep-learning machine-learning neural-network java pytorch deep-neural-networks ai mxnet tensorflow ml autograd onnxruntime djl
+2.5k Java
+hpcaitech/ColossalAI
+deep-learning hpc large-scale data-parallelism model-parallelism distributed-training pipeline-parallelism
+2.5k Python
+kwai/DouZero
+reinforcement-learning poker game-ai doudizhu
+2.5k Python
+Jittor/jittor
+deep-learning cuda gpu python jittor
+2.4k Python
+tryolabs/luminoth
+tensorflow object-detection deep-learning machine-learning computer-vision python toolkit faster-rcnn sonnet
+2.4k Python
+girls-in-ai/Girls-In-AI
+jupyter-notebook machine-learning deep-learning python3 kaggle girl
+2.4k Jupyter Notebook
+jolibrain/deepdetect
+machine-learning deep-learning pytorch image-classification object-detection caffe time-series gpu rest-api xgboost image-search image-segmentation tsne neural-nets tensorrt ncnn tensorrt-conversion tensorrt-inference
+2.4k C++
+CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial
+deep-learning tensorflow tensorboard deep-learning-tutorial
+2.3k Python
+L1aoXingyu/code-of-learn-deep-learning-with-pytorch
+pytorch pytorch-tutorial pytorch-tutorials-cn
+2.3k Jupyter Notebook
+hwalsuklee/awesome-deep-text-detection-recognition
+deep-learning ocr text-recognition awesome-list text-detection ocr-recognition awesome-lists text-detection-recognition ocr-detection ocr-papers ocr-paper ocr-paper-list
+2.3k 
+gluon-api/gluon-api
+deep-learning neural-network neural-networks gluon deep-learning-tutorial deep-learning-framework imperative-programming
+2.3k Jupyter Notebook
+mrdbourke/tensorflow-deep-learning
+deep-learning tensorflow tensorflow-tutorials deep-neural-networks curriculum tensorflow-course tensorflow2
+2.3k Jupyter Notebook
+charlesq34/pointnet2
+deep-learning point-cloud classification segmentation 3d-shape
+2.3k Python
+ybayle/awesome-deep-learning-music
+awesome-list awesome deep-learning neural-network music audio machine-learning neural-networks deep-neural-networks lists list research article unicorns resources music-information-retrieval deeplearning bib music-genre-classification audio-processing
+2.3k TeX
+awjuliani/DeepRL-Agents
+reinforcement-learning tensorflow
+2.2k Jupyter Notebook
+weiaicunzai/awesome-image-classification
+deep-learning image-classification awesome computer-vision awesome-list papers
+2.2k 
+dragen1860/Deep-Learning-with-PyTorch-Tutorials
+pytorch machine-learning tutorial deep-learning recurrent-neural-networks artificial-intelligence generative-adversarial-network convolutional-neural-networks
+2.1k Python
+thu-ml/zhusuan
+bayesian-inference deep-learning probabilistic-programming graphical-models generative-models
+2.1k Python
+weslynn/AlphaTree-graphic-deep-neural-network
+deep-learning neural-network image-classification machine-learning
+2.1k 
+pannous/tensorflow-speech-recognition
+tensorflow speech-recognition deep-learning speech-to-text neural-network stt
+2.1k Python
+sweetice/Deep-reinforcement-learning-with-pytorch
+deep-reinforcement-learning pytorch dqn ppo deep-learning algorithm policy-gradient sarsa resnet a3c reinforce sac alphago actor-critic trpo a2c actor-critic-algorithm td3
+2.1k Python
+erhwenkuo/deep-learning-with-keras-notebooks
+deep-learning keras keras-notebooks
+2.1k Jupyter Notebook
+megvii-research/ICCV2019-LearningToPaint
+pytorch deep-learning reinforcement-learning computer-vision painting
+2.1k Python
+koth/kcws
+nlp deep-learning tensorflow chinese-text-segmentation pos-tagger
+2.1k C++
+abhineet123/Deep-Learning-for-Tracking-and-Detection
+deep-learning object-detection tracking detection segmentation optical-flow papers tracking-by-detection code-collection paper-collection
+2k Shell
+AI4Finance-Foundation/ElegantRL
+reinforcement-learning dqn lightweight gae efficient pytorch stable ddpg sac per multiple-gpu ppo a2c td3 model-free-rl drl-pytorch bipedalwalkerhardcore
+2k Python
+timeseriesAI/tsai
+pytorch deep-learning time-series machine-learning classification python timeseries regression cnn rocket transformer forecasting rnn sequential fastai time-series-analysis time-series-classification self-supervised state-of-the-art inceptiontime
+2k Jupyter Notebook
+deeplearningturkiye/turkce-yapay-zeka-kaynaklari
+machine-learning natural-language-processing caffe deep-learning tensorflow keras pytorch convolutional-neural-networks derin-ogrenme yapay-zeka makine-ogrenmesi dogal-dil-isleme
+2k 
+D-X-Y/Awesome-AutoDL
+automl deep-learning neural-architecture-search awesome nas hyper-parameter-optimization autodl
+1.9k Python
+dipanjanS/practical-machine-learning-with-python
+python machine-learning natural-language-processing computer-vision deep-learning jupyter notebook clustering tensorflow scikit-learn keras jupyter-notebook pandas spacy nltk classification convolutional-neural-networks prophet statsmodels time-series-analysis
+1.9k Jupyter Notebook
+orico/www.mlcompendium.com
+marketing data-science machine-learning statistics deep-learning algorithms gitbook probability full-stack product-management ux-experience ux-design ux-research mlcompendium
+1.9k 
+tobegit3hub/tensorflow_template_application
+tensorflow deep-learning machine-learning csv inference cnn lstm tensorboard mlp libsvm tfrecords wide-and-deep serving
+1.9k Python
+eugeneyan/ml-surveys
+deep-learning reinforcement-learning nlp machine-learning computer-vision embeddings survey recommender-system
+1.8k 
+tqchen/tinyflow Public archive
+deep-learning computational-graphs nnvm
+1.8k C++
+szilard/benchm-ml
+machine-learning deep-learning xgboost random-forest python data-science r spark h2o gradient-boosting-machine
+1.8k R
+shenweichen/DeepCTR-Torch
+deep-learning deepfm xdeepfm ctr-models deepctr fibinet deepctr-pytorch
+1.8k Python
+tdeboissiere/DeepLearningImplementations
+deep-learning-papers
+1.8k Python
+sachinruk/deepschool.io
+deep-learning keras jupyter-notebook python3
+1.8k Jupyter Notebook
+torch-points3d/torch-points3d
+pytorch deep-learning point-cloud segmentation scannet pointnet s3dis minkowskiengine kpconv
+1.8k Python
+rguthrie3/DeepLearningForNLPInPytorch
+nlp tutorial deep-learning neural-network pytorch lstm
+1.8k Jupyter Notebook
+philipperemy/tensorflow-1.4-billion-password-analysis
+natural-language-processing deep-learning tensorflow
+1.8k Python
+GauravBh1010tt/DeepLearn
+nlp computer-vision deep-learning audio-processing
+1.7k Python
+wzhe06/SparrowRecSys
+deep-learning machine-learning recommender-system
+1.7k Python
+determined-ai/determined
+deep-learning machine-learning pytorch tensorflow kubernetes data-science hyperparameter-optimization hyperparameter-tuning hyperparameter-search distributed-training ml-infrastructure mlops ml-platform
+1.7k Python
+jVirus/ios-learning-materials
+swift ios metal learning awesome-list swiftui combine arkit tutorial xcode article spritekit uikit clean-code mvvm design-patterns scenekit curated-list coreml coreml-framework
+1.7k Swift
+tirthajyoti/Papers-Literature-ML-DL-RL-AI
+machine-learning artificial-intelligence reinforcement-learning deep-learning neural-network machine-learning-algorithms data-science data-mining statistics hardware paper statistical-learning game-theory pattern-recognition literature silicon learning-theory
+1.7k 
+huseinzol05/NLP-Models-Tensorflow
+nlp deep-learning machine-learning embedded chatbot language-detection lstm summarization attention speech-to-text neural-machine-translation optical-character-recognition pos-tagging lstm-seq2seq-tf dnc-seq2seq luong-api
+1.6k Jupyter Notebook
+achillesrasquinha/bulbea
+finance machine-learning deep-learning sentiment-analysis python-library prediction stock-market quantitative-finance quantitative-trading stock-prediction stock-market-prediction
+1.6k Python
+xiaohu2015/DeepLearning_tutorials
+tensorflow cnn sda lstm deep-learning-algorithms rbm mlp deep-learning-tutorial dbn
+1.6k Jupyter Notebook
+Machine-Learning-Tokyo/Interactive_Tools
+machine-learning deep-learning interactive-tools
+1.6k 
+NVIDIA/DeepRecommender Public archive
+deep-learning gpu collaborative-filtering recommendation-engine deep-autoencoders
+1.6k Python
+azavea/raster-vision
+deep-learning machine-learning pytorch computer-vision object-detection remote-sensing geospatial classification semantic-segmentation
+1.6k Python
+Alro10/deep-learning-time-series
+time-series deep-learning lstm-neural-networks prediction lstm deep-neural-networks tensorflow python3 pytorch recurrent-neural-networks series-analysis forecasting-models demand-forecasting series-forecasting sales-forecasting time-series-classification time-series-prediction time-series-forecasting series-classification forecasting-competitions
+1.6k Jupyter Notebook
+lexfridman/deeptraffic
+deep-learning machine-learning mit tensorflow deep-reinforcement-learning convnetjs self-driving-cars deep-rl
+1.6k JavaScript
+carpedm20/deep-rl-tensorflow
+deep-reinforcement-learning tensorflow dqn
+1.6k Python
+RubixML/ML
+machine-learning php neural-network data-science natural-language-processing algorithm ai deep-learning analytics clustering cross-validation regression prediction artificial-intelligence classification machine-learning-library anomaly-detection php-ml php-ai php-machine-learning
+1.5k PHP
+DT42/BerryNet
+deep-learning raspberry-pi mqtt iot tensorflow tensorrt edge-computing edge-devices aiot openvino edge-ai
+1.5k Python
+maxpumperla/elephas
+keras deep-learning spark distributed-computing neural-networks
+1.5k Python
+szad670401/HyperLandmark
+android tracking cnn face-alignment face-landmark 106-points
+1.5k C++
+Delta-ML/delta
+deep-learning nlp speech-recognition tensorflow nlu text-classification front-end ops speech inference text-generation seq2seq sequence-to-sequence speaker-verification asr tensorflow-serving emotion-recognition custom-ops serving tensorflow-lite
+1.5k Python
+curiousily/Getting-Things-Done-with-Pytorch
+pytorch deep-learning machine-learning object-detection transfer-learning time-series sentiment-analysis nlp bert tutorial computer-vision transformer lstm yolo face-recognition face-detection anomaly-detection time-series-forecasting coronavirus time-series-anomaly-detection
+1.5k Jupyter Notebook
+guillaume-chevalier/Awesome-Deep-Learning-Resources
+awesome-list deep-learning machine-learning awesome tensorflow cnn lstm
+1.5k 
+pkmital/CADL
+deep-learning tensorflow dockerfile machine-learning tutorial workshop neural-network mooc jupyter-notebook
+1.5k Jupyter Notebook
+chainer/chainercv Public archive
+deep-learning computer-vision python neural-network chainer cupy chainercv
+1.5k Python
+mbadry1/Top-Deep-Learning
+deep-learning machine-learning deep-neural-networks convolutional-neural-networks deep-reinforcement-learning recurrent-neural-networks artificial-intelligence artificial-neural-networks stargazers-count top-repositories
+1.5k Python
+PaddlePaddle/awesome-DeepLearning
+nlp video reinforcement-learning detection cnn transformer gan dqn classification rnn sarsa segmentation recommender-system bert pose dssm tinybert dynabert
+1.5k Jupyter Notebook
+ahangchen/GDLnotes
+deep-learning tensorflow machine-learning
+1.5k Python
+microsoft/Deep3DFaceReconstruction
+tensorflow faces basel-face-model 3d-face-reconstruction
+1.4k Python
+uber/petastorm
+machine-learning deep-learning tensorflow pytorch pyspark parquet parquet-files sysml pyarrow
+1.4k Python
+deepchecks/deepchecks
+python data-science machine-learning deep-learning data-validation pandas-dataframe jupyter-notebook ml pytorch html-report model-validation mlops model-monitoring data-drift
+1.4k Python
+fengbintu/Neural-Networks-on-Silicon
+deep-learning hardware
+1.4k 
+dformoso/deeplearning-mindmap
+python learning science data jupyter deep cheatsheet mindmap
+1.4k 
+albarqouni/Deep-Learning-for-Medical-Applications
+medical-imaging deep-learning awesome-list medical-informatics
+1.4k TeX
+HuwCampbell/grenade
+haskell machine-learning deep-learning deep-neural-networks convolutional-neural-networks generative-adversarial-networks
+1.4k Haskell
+D-X-Y/AutoDL-Projects
+neural-architecture-search automl pytorch nas autodl
+1.4k Python
+OsciiArt/DeepAA
+python deep-learning tensorflow keras ascii-art
+1.4k Python
+fepegar/torchio
+python machine-learning deep-learning pytorch medical-image-computing medical-images data-augmentation augmentation medical-image-processing medical-image-analysis medical-imaging-datasets medical-imaging-with-deep-learning
+1.3k Python
+bfelbo/DeepMoji
+python machine-learning natural-language-processing deep-learning
+1.3k Python
+denizyuret/Knet.jl
+machine-learning deep-learning julia data-science neural-networks knet
+1.3k Jupyter Notebook
+tugstugi/dl-colab-notebooks
+pytorch deep-learning google-colab deep-neural-networks tensorflow jupyter-notebook cnn jupyter-notebooks colab-notebook google-colaboratory
+1.3k Jupyter Notebook
+graykode/distribution-is-all-you-need
+distribution deep-learning probability gaussian mathmatics
+1.3k Python
+basicmi/AI-Chip
+deep-learning machine-learning processor chip ai-chips
+1.3k PHP
+AlexiaJM/Deep-learning-with-cats
+cat deep-learning picture cuda gan
+1.3k Python
+DLTK/DLTK
+python data-science machine-learning deep-neural-networks deep-learning neural-network tensorflow ml cnn medical medical-imaging neural-networks neuroimaging medical-image-processing dltk dltk-model-zoo
+1.3k Python
+Kaixhin/Rainbow
+deep-reinforcement-learning deep-learning
+1.3k Python
+bamos/dcgan-completion.tensorflow
+deep-learning tensorflow
+1.3k Python
+PacktPublishing/Advanced-Deep-Learning-with-Keras
+deep-learning gan autoencoder keras reinforcement-learning vae
+1.3k Python
+m2dsupsdlclass/lectures-labs
+deep-learning python slide neural-network jupyter-notebook lecture
+1.3k Jupyter Notebook
+pathak22/noreward-rl
+mario deep-neural-networks deep-learning tensorflow deep-reinforcement-learning openai-gym doom exploration rl curiosity self-supervised
+1.3k Python
+chandrikadeb7/Face-Mask-Detection
+computer-vision deep-learning keras machine-learning covid-19 python keras-tensorflow caffe python3 python-3 hacktoberfest bing-search face-mask ssd-mobilenet mobilenetv2 facemaskdetect mask-detection face-mask-detection mask-detection-system facemask-detection
+1.2k Jupyter Notebook
+PaddlePaddle/Research
+nlp data-mining computer-vision deep-learning knowledge-graph spatial-temporal
+1.2k Python
+Jack-Cherish/Deep-Learning
+deep-learning pytorch python tensorflow python3
+1.2k Python
+natanielruiz/deep-head-pose
+deep-learning deep-neural-networks head gaze head-pose-estimation gaze-estimation head-pose face-pose
+1.2k Python
+omarsar/nlp_overview
+nlp deep-learning reinforcement-learning word-embeddings cnn rnn
+1.2k CSS
+dvgodoy/dl-visuals
+deep-learning design neural-networks diagrams cc-by
+1.2k 
+The-Learning-And-Vision-Atelier-LAVA/SoTA-Point-Cloud
+semantic-segmentation pointclouds 3d-segmentation instance-segmentation 3d-deep-learning 3d-detection 3d-classification 3d-tracking
+1.2k 
+coqui-ai/STT
+deep-learning tensorflow voice-recognition speech-recognition automatic-speech-recognition speech-to-text stt asr speech-recognizer speech-recognition-api
+1.2k C++
+Ceruleanacg/Personae
+reinforcement-learning trading paper stock supervised-learning stock-price-prediction stock-data time-series-prediction
+1.2k Python
+greenelab/deep-review
+deep-learning review genomics neural-networks manuscript manubot
+1.2k HTML
+sgrvinod/Deep-Tutorials-for-PyTorch
+pytorch deep-learning-tutorial neural-network-tutorials pytorch-tutorial pytorch-tutorials learning-pytorch
+1.2k 
+RubensZimbres/Repo-2017
+deep-learning nlp sentiment-analysis keras word2vec opencv natural-language-processing generative-adversarial-network autoencoder glove t-sne segnet keras-models keras-layer latent-dirichlet-allocation denoising-autoencoders svm-classifier resnet-50 anomaly-detection variational-autoencoder
+1.2k Python
+reshamas/fastai_deeplearn_part1
+deep-learning pytorch python python3 image-recognition
+1.1k HTML
+keon/deep-q-learning
+deep-learning reinforcement-learning deep-reinforcement-learning dqn deep-q-network ddqn
+1.1k Python
+Atcold/NYU-DLSP21
+deep-learning nyu ebm yann-le-cunn
+1.1k Jupyter Notebook
+labmlai/labml
+deep-learning machine-learning pytorch keras tensorflow visualization experiment mobile analytics tensorboard fastai keras-tensorflow tensorflow2 pytorch-lightning
+1.1k Jupyter Notebook
+divelab/DIG
+deep-learning graph-generation explainable-ml self-supervised-learning 3d-graph graph-neural-network
+1.1k Python
+Sanster/text_renderer
+ocr synthtext crnn
+1.1k Python
+kuaikuaikim/DFace
+pytorch deeplearning facerecognition mtcnn facedetection mtcnn-pytorch
+1.1k Python
+AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020
+deep-reinforcement-learning openai-gym sharpe-ratio ddpg stock-trading ppo a2c-algorithm ensemble-strategy stock-trading-strategy automated-stock-trading
+1.1k Jupyter Notebook
+full-stack-deep-learning/fsdl-text-recognizer-project
+deep-learning
+1.1k Jupyter Notebook
+SkalskiP/ILearnDeepLearning.py
+deep-learning neural-network numpy computer-vision visualizations deep-learning-tutorial
+1.1k Jupyter Notebook
+cszn/DnCNN
+pytorch super-resolution matconvnet image-denoising residual-learning keras-tensorflow jpeg-deblocking
+1.1k MATLAB
+kengz/SLM-Lab
+benchmark reinforcement-learning deep-reinforcement-learning pytorch dqn policy-gradient a3c sac ppo a2c
+1.1k Python
+cheungdaven/DeepRec
+deep-learning tensorflow collaborative-filtering recommendation-system python neural-network matrix-factorization recommendation recommender-systems rating-prediction factorization-machine top-n-recommendations
+1.1k Python
+THUDM/cogdl
+pytorch graph-neural-networks leaderboard link-prediction graph-embedding graph-classification node-classification gnn-model
+1k Python
+chainer/chainerrl
+reinforcement-learning dqn deep-learning python machine-learning chainer actor-critic
+1k Python
+neomatrix369/awesome-ai-ml-dl
+machine-learning deep-learning artificial-intelligence natural-language-processing ai nlp docker data time-series algorithms mathematica ml neural-networks data-generation graalvm graal intelligent-systems dl machine-intelligence cloud-devops
+1k Jupyter Notebook
+benthecoder/yt-channels-DS-AI-ML-CS
+awesome-list awesome python data-science data machine-learning youtube statistics web-development programming ai deep-learning math ml resources artificial-intelligence data-engineering coding data-analysis software-engineering
+1k 
+hfawaz/dl-4-tsc
+deep-learning review deep-neural-networks convolutional-neural-networks research-paper time-series-classification empirical-research
+1k Python
+ShannonAI/service-streamer
+deep-learning bert pytorch tensorflow web model-deployment
+1k Python
+amanchadha/coursera-deep-learning-specialization
+deep-learning coursera convolutional-neural-networks neural-network neural-networks recurrent-neural-networks hyperparameter-optimization regularization neural-machine-translation coursera-machine-learning convolutional-neural-network hyperparameter-tuning andrew-ng coursera-assignment cnns rnns andrew-ng-course recurrent-neural-network neural-style-transfer coursera-specialization
+1k Jupyter Notebook
+PyRetri/PyRetri
+deep-learning pytorch toolbox image-retrieval
+1k Python
+learning-at-home/hivemind
+deep-learning pytorch machine-learning distributed-systems dht neural-networks asyncio asynchronous-programming volunteer-computing hivemind distributed-training mixture-of-experts
+1k Python
+dalmia/Deep-Learning-Book-Chapter-Summaries
+deep-learning machine-learning mathematics deep-learning-book
+1k Jupyter Notebook
+despoisj/DeepAudioClassification
+deep-learning music machine-learning artificial-intelligence neural-networks
+1k Python
+lululxvi/deepxde
+deep-learning pytorch neural-network differential-equations geometry ide scientific-computing operator pde paddle tesnorflow numerical-solver pinn pde-solver jax fractional-diffusion scientific-machine-learning multi-fidelity-data physics-informed-learning deeponet
+1k Python
+mindee/doctr
+ocr pytorch deep-learning text-recognition text-detection optical-character-recognition text-detection-recognition tensorflow2 document-recognition
+1k Python
+ShanghaiTechAIClub/DLInterview
+machine-learning deep-learning algorithms interview-questions
+996 
+abhishekkrthakur/tez
+pytorch deep-neural-networks deep-learning neural-networks tez
+990 Python
+amaiya/ktrain
+nlp machine-learning deep-learning tensorflow python computer-vision keras tabular-data graph-neural-networks
+985 Jupyter Notebook
+ikostrikov/pytorch-a3c
+python reinforcement-learning deep-learning deep-reinforcement-learning pytorch a3c asynchronous-methods actor-critic pytorch-a3c asynchronous-advantage-actor-critic asynch
+982 Python
+huggingface/deep-rl-class
+reinforcement-learning deep-reinforcement-learning reinforcement-learning-excercises
+981 Jupyter Notebook
+google-research/morph-net
+deep-learning neural-architecture-search automl python machine-learning tensorflow
+977 Python
+AIStream-Peelout/flow-forecast
+deep-learning time-series lstm deep-neural-networks pytorch transformer forecasting transfer-learning hacktoberfest time-series-analysis anomaly-detection time-series-forecasting time-series-regression state-of-the-art-models
+977 Python
+gabrieleangeletti/Deep-Learning-TensorFlow
+deep-learning tensorflow
+967 Python
+altosaar/variational-autoencoder
+pytorch learning machine-learning deep-neural-networks deep-learning tensorflow deep vae unsupervised-learning variational-inference probabilistic-graphical-models variational-autoencoder autoregressive-neural-networks
+958 Python
+DeepWisdom/AutoDL
+pytorch python machine-learning data-science big-data ai tensorflow artificial-intelligence model-selection lightgbm resnet deeplearning feature-engineering nas multi-label automl automated-machine-learning autodl autodl-challenge full-automl
+953 Python
+black0017/MedicalZooPytorch
+medical-imaging deep-learning segmentation pytorch unet densenet resnet medical-image-processing 3d-convolutional-network medical-image-segmentation unet-image-segmentation iseg brats2018 iseg-challenge segmentation-models mrbrains18 brats2019
+944 Python
+mratsim/Arraymancer
+tensor nim cuda deep-learning gpu-computing machine-learning gpgpu automatic-differentiation linear-algebra opencl high-performance-computing neural-networks openmp iot parallel-computing autograd ndarray multidimensional-arrays cudnn matrix-library
+944 Nim
+DeepMotionEditing/deep-motion-editing
+deep-learning style-transfer computer-animation computer-graphics motion-retargeting character-animation
+939 Python
+roatienza/Deep-Learning-Experiments
+deep-learning pytorch nlp speech artificial-intelligence vision deep-learning-tutorial
+934 Jupyter Notebook
+microsoft/Graphormer
+deep-learning graph transformer ai4science molecule-simulation
+923 Python
+Machine-Learning-Tokyo/DL-workshop-series
+deep-learning keras workshop convolutional-neural-networks cnn-keras
+916 Jupyter Notebook
+uber/neuropod
+deep-learning pytorch tensorflow machine-learning inference keras machinelearning deeplearning incubation
+902 C++
+cbailes/awesome-deep-trading
+deep-learning machine-learning deep-neural-networks trading-bot deep-reinforcement-learning cryptocurrency fintech trading-algorithms quantitative-trading stock-trading frequency-trading deep-trading trading-bots
+899 
+merrymercy/awesome-tensor-compilers
+deep-learning machine-learning programming-language compiler high-performance-computing code-generation tensor
+889 
+bighuang624/Andrew-Ng-Deep-Learning-notes
+deep-learning neural-network coursera andrew-ng andrew-ng-course
+881 Jupyter Notebook
+MaurizioFD/RecSys2019_DeepLearning_Evaluation
+recommender-system collaborative-filtering matrix-factorization recommendation-system deep-learning reproducible-research neural-network hyperparameters bpr reproducibility recommendation-algorithms knn matrix-completion evaluation-framework content-based-recommendation hybrid-recommender-system funksvd bprmf bprslim slimelasticnet
+879 Python
+SharpAI/DeepCamera
+deep-learning machine-learning tensorflow face-detection video ai rtsp mxnet mali face-recognition video-surveillance object-detection automl jetson arm-gpu tf-lite npu nvidia-jetson-nano
+878 Python
+Kismuz/btgym
+reinforcement-learning time-series tensorflow deep-reinforcement-learning openai-gym unreal policy-gradient a3c hacktoberfest algorithmic-trading-library quantitive-finance backtesting-trading-strategies statistical-arbitrage gym-environment advantage-actor-critic backtrader policy-optimisation algoritmic-trading
+878 Python
+qfettes/DeepRL-Tutorials
+reinforcement-learning gae deep-reinforcement-learning rainbow python3 pytorch deep-q-network actor-critic double-dqn quantile-regression dueling-dqn categorical-dqn ppo advantage-actor-critic a2c deep-recurrent-q-network prioritized-experience-replay multi-step-learning noisy-networks deeprl-tutorials
+876 Jupyter Notebook
+L1aoXingyu/Deep-Learning-Project-Template
+pytorch deep-learning chainer keras pytorch-tutorial
+873 Python
+dmlc/decord
+video-loader
+860 C++
+huawei-noah/AdderNet
+pytorch convolutional-neural-networks imagenet efficient-inference cvpr2020
+859 Python
+GANs-in-Action/gans-in-action
+deep-learning gans gan deep-neural-networks ai artificial-intelligence generative-adversarial-network dcgan semi-supervised-learning artificial-intelligence-algorithms cycle-gan conditional-gan
+858 Jupyter Notebook
+LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms
+machine-learning hyperparameter-optimization deep-learning optimization random-forest svm genetic-algorithm machine-learning-algorithms artificial-neural-networks grid-search tuning-parameters knn bayesian-optimization hyperparameter-tuning random-search particle-swarm-optimization hpo python-examples python-samples hyperband
+855 Jupyter Notebook
+MITESHPUTHRANNEU/Speech-Emotion-Analyzer
+deep-learning speech neural-network speech-recognition keras data-science natural-language-processing deep-neural-networks voice emotion python3 audio-files emotion-recognition natural-language-understanding speech-emotion-recognition
+846 Jupyter Notebook
+huggingface/torchMoji
+python machine-learning natural-language-processing deep-learning pytorch
+837 Python
+cirosantilli/china-dictatorship
+socks5 shadowsocks censorship-circumvention china censorship gfw great-firewall human-rights dictator tiananmen xinjiang 996 chinese-communist-party covid-19 dictatorship totalitarian xi-jinping falun-gong china-dictatorship covid-19-china
+835 HTML
+TJU-DRL-LAB/AI-Optimizer
+reinforcement-learning deep-learning transfer-learning
+829 Python
+vwxyzjn/cleanrl
+reinforcement-learning deep-reinforcement-learning pytorch deep-learning python machine-learning gym atari actor-critic ale proximal-policy-optimization ppo advantage-actor-critic a2c wandb
+827 Python
+BMW-InnovationLab/BMW-TensorFlow-Training-GUI
+object-detection deep-learning tensorflow machine-learning docker gui deep-neural-networks computer-vision neural-network rest-api tensorboard resnet deeplearning computervision objectdetection no-code detection-api tensorflow2 tensorflow-gui inference-api
+823 Python
+emilwallner/Coloring-greyscale-images
+deep-learning keras tutorial tensorflow jupyter-notebook colorization
+822 Python
+jrzaurin/pytorch-widedeep
+pytorch deep-learning python text images tabular-data pytorch-cv multimodal-deep-learning pytorch-nlp pytorch-transformers model-hub pytorch-tabular-data
+814 Python
+Kotlin/kotlindl
+tensorflow kotlin gpu deeplearning
+812 Kotlin
+deepgram/kur
+machine-learning deep-neural-networks deep-learning neural-network speech-recognition neural-networks image-recognition speech-to-text deep-learning-tutorial
+811 Python
+maxpumperla/deep_learning_and_the_game_of_go
+deep-learning machine-learning python data-science games neural-networks game-of-go alphago alphago-zero
+808 Python
+deepmodeling/deepmd-kit
+deep-learning molecular-dynamics python cpp tensorflow cuda lammps ipi rocm potential-energy deepmd
+802 C++
+qiaoguan/deep-ctr-prediction
+afm transformer resnet recommendation recommendation-algorithms ctr-prediction ctr recommendation-algorithm factorization-machine deepfm xdeepfm deep-ctr ad-algorithm esmm deep-cross deep-interest-network fibinet
+802 Python
+HRNet/HRNet-Facial-Landmark-Detection
+face-alignment facial-landmarks facealignment deep-high-resolution-net hrnets
+802 Python
+serengil/tensorflow-101
+deep-learning tensorflow face-recognition python machine-learning convolutional-neural-networks style-transfer neural-networks transfer-learning openface facenet autoencoders emotion-analysis automl facial-expression-recognition age-prediction gender-prediction vgg-face deepface celebrity-recognition
+798 Jupyter Notebook
+BIGBALLON/cifar-10-cnn
+deep-learning keras convolutional-neural-networks tensorflow densenet residual-networks learning-rate cifar10 cifar-100
+790 Python
+webdataset/webdataset
+pytorch deep-learning data-augmentation webdataset webdataset-format
+790 Jupyter Notebook
+Khrylx/PyTorch-RL
+reinforcement-learning pytorch deep-reinforcement-learning ppo generative-adversarial-network policy-gradient trpo fisher-vectors pytorch-rl proximal-policy-optimization a2c
+786 Python
+atulapra/Emotion-detection
+deep-learning opencv computer-vision tflearn opencv-python haar-cascade emotion-detection emotion-recognition
+783 Python
+brannondorsey/PassGAN
+machine-learning deep-learning password gan password-strength password-cracking
+783 Python
+full-stack-deep-learning/course-gitbook
+deep-learning machine-learning
+781 
+jingweiz/pytorch-rl
+reinforcement-learning deep-learning deep-reinforcement-learning pytorch dqn a3c actor-critic pytorch-a3c acer trpo visdom
+775 Python
+tensorflow/swift-apis
+tensorflow deep-learning swift differentiable-programming
+775 Swift
+fastai/course20
+deep-learning machine-learning python jupyter-notebook teaching
+765 Jupyter Notebook
+ThoughtWorksInc/DeepLearning.scala
+scala functional-programming deep-learning machine-learning deep-neural-networks neural-network dsl automatic-differentiation domain-specific-language symbolic-computation
+760 Scala
+hse-aml/intro-to-dl
+deep-learning
+759 Jupyter Notebook
+curiousily/Deep-Learning-For-Hackers
+machine-learning deep-learning keras tensorflow python sentiment-analysis artificial-intelligence neural-networks object-detection jupyter-notebooks autoencoders tensorflow-tutorial bert image-augmentation anomaly-detection time-series-classification time-series-forecasting lstms intent-recognition
+758 Jupyter Notebook
+IsaacChanghau/DL-NLP-Readings
+machine-learning deep-learning natural-language-processing reinforcement-learning robotics paper language-model bibtex-references commonsense vision-and-language source-code-link
+751 TeX
+deepforge-dev/deepforge
+deep-learning ide rapid-prototyping
+749 JavaScript
+prakashpandey9/Text-Classification-Pytorch
+pytorch text-classification lstm-model glove rnn-model sentiment-classification attention-model self-attention
+744 Python
+chris-chris/pysc2-examples
+reinforcement-learning deep-reinforcement-learning machine-learning ai deepmind deep-q-network startcraft2
+743 Python
+wagamamaz/tensorflow-tutorial
+tensorflow machine-learning neural-network deep-learning recurrent-neural-networks nlp reinforcement-learning notebook keras deep-reinforcement-learning cnn neural-networks autoencoder tensorflow-tutorials convolutional-neural-networks neural-machine-translation tflearn tensorlayer multi-layer-perceptron deep-learning-tutorial
+740 
+The-AI-Summer/Deep-Learning-In-Production
+deep-learning tensorflow machine-learning python training cloud ai deployment neural-network production deeplearning unet semantic-segmentation machinelearningproject
+739 Jupyter Notebook
+astorfi/3D-convolutional-speaker-recognition
+deep-learning convolutional-neural-networks speaker-recognition 3d
+737 Python
+sudharsan13296/Hands-On-Reinforcement-Learning-With-Python
+reinforcement-learning deep-reinforcement-learning monte-carlo openai-gym q-learning deep-learning-algorithms policy-gradient sarsa deep-q-network markov-decision-processes asynchronous-advantage-actor-critic double-dqn trpo dueling-dqn deep-deterministic-policy-gradient ppo deep-recurrent-q-network drqn hindsight-experience-replay policy-gradients
+733 Jupyter Notebook
+geektutu/interview-questions
+machine-learning deep-learning golang python interview-questions
+733 Jupyter Notebook
+bnu-wangxun/Deep_Metric
+image-retrieval cvpr xbm deep-metric-learning loss-function multi-similarity-loss embedding-learning
+731 Python
+MemorialCheng/deep-learning-from-scratch
+deep-learning machine-learning sklearn
+729 Jupyter Notebook
+Zymrael/awesome-neural-ode
+deep-learning root-finding ode dynamical-systems ordinary-differential-equations dynamical-modeling ode-solver hamiltonian-dynamics implicit-models
+725 
+yaserkl/RLSeq2Seq
+nlp reinforcement-learning policy-gradient actor-critic abstractive-text-summarization pointer-generator
+721 Python
+wx-chevalier/AI-Series
+natural-language-processing neural-network artificial-intelligence datascience machinelearning deeplearning wx-doc
+717 Jupyter Notebook
+szq0214/DSOD
+object-detection from-scratch
+703 Python
+calclavia/DeepJ
+music learning tensorflow machine composition keras deep generation
+697 Python
+huawei-noah/bolt
+deep-learning android arm nlp ios mobile caffe tensorflow high-performance cv inference cnn x86 rnn mali bolt huawei noah onnx
+695 C++
+NVIDIA-Merlin/NVTabular
+deep-learning machine-learning gpu feature-selection nvidia recommendation-system recommender-system preprocessing feature-engineering
+689 Python
+jatinshah/ufldl_tutorial
+deep-learning convolutional-neural-networks deep-learning-tutorial
+686 Python
+ShusenTang/Deep-Learning-with-PyTorch-Chinese
+pytorch deep-learning-tutorial pytorch-tutorial
+679 Jupyter Notebook
+RedisAI/RedisAI
+tensorflow machine-learning pytorch redisai onnxruntime serving-tensors
+674 C
+tony-framework/TonY
+deep-learning hadoop machine-learning tensorflow horovod hadoop-yarn
+673 Java
+0xsanny/deep-learning-guide
+deep-learning machine-learning natural-language-processing computer-vision deep-reinforcement-learning neural-networks
+670 
+neoml-lib/neoml
+machine-learning neural-network deep-learning cpp onnx ml
+670 C++
+hankcs/CS224n
+natural-language-processing deep-learning tensorflow word2vec rnn cs224n
+670 Python
+stratospark/food-101-keras
+machine-learning ai deep-learning tensorflow keras image-classification food-classification
+670 Jupyter Notebook
+IBM/FfDL
+python machine-learning deep-neural-networks caffe ai deep-learning jupyter storage watson tensorflow model keras ml kubernetes-cluster pytorch artificial-intelligence deeplearning ibm-research-ai
+661 Go
+jiny2001/dcscn-super-resolution
+super-resolution deep-learning tensorflow python computer-vision
+659 Python
+sql-machine-learning/elasticdl
+deep-learning kubernetes tensorflow distributed-systems
+658 Python
+snakeztc/NeuralDialogPapers
+language reinforcement-learning deep-learning neural-network chatbot
+647 
+samre12/deep-trading-agent
+bitcoin agent trading deep-reinforcement-learning recurrent-neural-networks artificial-intelligence deep-q-network deep-sense
+638 Python
+kwea123/VTuber_Unity Public archive
+face-detection pytorch unity python dlib vrm unity-chan face-landmark-detection gaze-estimation face-pose vtuber
+638 Python
+libxsmm/libxsmm
+simd machine-learning fortran vector matrix intel avx sse jit matrix-multiplication sparse blas convolution avx2 amx tensor avx512 transpose bfloat16
+636 C
+guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising
+deep-learning search search-engine reinforcement-learning recommender-system advertising ctr cvr
+633 Python
+andyzeng/visual-pushing-grasping
+robotics deep-learning deep-reinforcement-learning computer-vision artificial-intelligence vision manipulation grasping 3d pushing
+628 Python
+HonglinChu/SiamTrackers
+tracking deep-learning visual-tracking
+628 Python
+wichtounet/dll
+c-plus-plus machine-learning performance cpu deep-learning cpp gpu cpp14 cpp11 artificial-neural-networks rbm convolutional-neural-networks
+627 C++
+shramos/Awesome-Cybersecurity-Datasets
+cybersecurity attack ids security learning events data malware logs traffic deep machinelearning deeplearning datasets ips dataframe
+627 
+umbrellabeach/music-generation-with-DL
+deep-learning music-composition gan music-generation
+625 
+OATML/bdl-benchmarks
+benchmark-framework bayesian-deep-learning diabetic-retinopathy
+624 Jupyter Notebook
+cerndb/dist-keras Public archive
+deep-learning keras machine-learning data-science apache-spark hadoop tensorflow optimization-algorithms data-parallelism distributed-optimizers
+621 Python
+jinfagang/alfred
+pytorch alfred network segmentation deeplearning sensor-fusion 3d-object-detection video-combiner pycocotools alfred-py
+621 Python
+khuangaf/CryptocurrencyPrediction
+machine-learning deep-learning bitcoin sklearn cnn cryptocurrency lstm gru final-year-project
+620 Jupyter Notebook
+aleju/mario-ai
+deep-learning agent mario machine-learning deep-reinforcement-learning torch reward
+617 Lua
+piEsposito/blitz-bayesian-deep-learning
+pytorch bayesian-neural-networks pytorch-tutorial bayesian-deep-learning pytorch-implementation bayesian-layers
+610 Python
+patrick-llgc/Learning-Deep-Learning
+deep-learning machine-learning computer-vision reinforcement-learning paper point-cloud cnn medical medical-imaging literature-review 3d-object-recognition paper-reading paper-review 3d-object-detection
+609 Jupyter Notebook
+takuseno/d3rlpy
+deep-learning pytorch deep-reinforcement-learning offline-rl
+601 Python
+BMW-InnovationLab/BMW-YOLOv4-Training-Automation
+yolov3 yolo darknet object-detection yolov4 deep-learning docker gui automation monitoring neural-network rest-api tensorboard deeplearning computervision objectdetection no-code alexeyab-darknet yolo-gui yolo-tensorboard
+601 Python
+yoshitomo-matsubara/torchdistill
+pytorch image-classification knowledge-distillation nlp natural-language-processing glue transformer imagenet coco object-detection semantic-segmentation cifar10 pascal-voc cifar100 google-colab colab-notebook
+598 Python
+flink-extended/dl-on-flink
+deep-learning tensorflow pytorch python flink
+591 Java
+csarron/awesome-emdl
+deep-learning quantization deep-neural-networks inference pruning neural-network-compression mobile-deep-learning embedded-ai efficient-neural-networks mobile-ai mobile-inference
+584 
+LastAncientOne/Deep-Learning-Machine-Learning-Stock
+machine-learning deep-learning neural-network data-science trading algorithms prediction feature-selection feature-extraction stock-market stock-price-prediction technical-analysis stock-data feature-engineering stock-prices stock-prediction stock-analysis financial-engineering stock-trading features-extraction
+580 Jupyter Notebook
+emilwallner/How-to-learn-Deep-Learning
+machine-learning deep-learning cnn rnn tflearn
+580 
+SciML/NeuralPDE.jl
+differential-equations scientific-machine-learning sciml ode neural-networks neural-network partial-differential-equations ordinary-differential-equations differentialequations pde pinn neural-differential-equations scientific-ml scientific-ai
+580 Julia
+miyosuda/async_deep_reinforce
+deep-learning reinforcement-learning tensorflow a3c
+579 Python
+dataflowr/notebooks
+deep-learning tutorials pytorch hacktoberfest hacktob
+576 Jupyter Notebook
+AshwinRJ/Federated-Learning-PyTorch
+deep-learning pytorch federated-learning python distributed-computing
+576 Python
+mbadry1/Trending-Deep-Learning
+deep-learning machine-learning deep-neural-networks deep-reinforcement-learning recurrent-neural-networks artificial-intelligence artificial-neural-networks trending-repositories convolutional-neural-networks stargazers-count
+568 Python
+ndb796/Deep-Learning-Paper-Review-and-Practice
+deep-learning ai paper-reviews
+568 Jupyter Notebook
+jiwei0921/SOD-CNNs-based-code-summary-
+salient-object-detection saliency-detection paper-list
+565 
+manujosephv/pytorch_tabular
+pytorch deep-learning machine-learning tabular-data hacktoberfest pytorch-lightning
+561 Python
+alexandre01/deepsvg
+deep-learning pytorch python svg machine-learning library svg-animations transformer autoencoder sketches sketch-rnn deep-svg svg-vae
+560 Jupyter Notebook
+abhshkdz/papers
+machine-learning deep-neural-networks computer-vision deep-learning artificial-intelligence
+559 
+HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis
+deep-learning machine-learning paper video-classification video-analysis multimodal-learning video-dataset
+558 
+deeplearningzerotoall/PyTorch
+pytorch tutorial
+555 Jupyter Notebook
+cpnota/autonomous-learning-library
+reinforcement-learning deep-reinforcement-learning dqn reinforcement-learning-algorithms ddpg sac deep-q-learning deep-deterministic-policy-gradient proximal-policy-optimization ppo advantage-actor-critic a2c soft-actor-critic dqn-pytorch
+553 Python
+MarkMoHR/Awesome-Image-Colorization
+deep-learning papers computer-vision graphics color-palette image-colorization user-interaction colorization automatic-colorization color-transfer user-guided image-colorization-paper image-colorization-papers color-strokes
+549 
+oneTaken/awesome_deep_learning_interpretability
+deep-learning pytorch nlp awesome computer-vision neural-network chainer tensorflow matlab keras torch awesome-list papers cvpr iccv iclr interpretability icml eccv neurips
+548 
+iitzco/faced
+python computer-vision deep-learning tensorflow python-library face-detection convolutional-neural-networks fully-convolutional-networks
+548 Python
+kexinhuang12345/DeepPurpose
+deep-learning bioinformatics toolkit ddi drug-discovery drug-repurposing ppi protein-protein-interaction side-effects qsar virtual-screening protein-function-prediction drug-drug-interaction drug-target-interactions covid19 drug-target-interaction dti-prediction drug-property-prediction repurposing-drugs
+546 Jupyter Notebook
+sktime/sktime-dl
+machine-learning deep-learning time-series scikit-learn neural-networks longitudinal-data panel-data time-series-classification time-series-forecasting time-series-regression
+546 Python
+LongxingTan/Time-series-prediction
+time-series deep-learning machine-learning tensorflow prediction tf2 transformer forecasting seq2seq temporal-networks wavenet wavenet-keras
+537 Python
+PaddlePaddle/X2Paddle
+pytorch onnx caffe tensorflow paddlepaddle model-converter x2paddle-model-zoo
+537 Python
+mattmurray/music_recommender
+music deep-learning cnn spectrogram recommender-system convolutional-neural-networks cosine-similarity keras-tensorflow
+536 Jupyter Notebook
+zsdonghao/deep-learning-book
+deep-learning machine-learning tensorflow gan tensorlayer
+534 
+PracticalDL/Practical-Deep-Learning-Book
+deep-learning machine-learning cloud mobile artificial-intelligence edge object-detection deep-learning-tutorial oreilly oreilly-books
+534 Jupyter Notebook
+sadighian/crypto-rl
+trading mongodb bitcoin coinbase multiprocessing deep-reinforcement-learning multithreading dqn tickstore arctic recorder trading-algorithms cryptocurrencies bitfinex hft order-book limit-order-book orderbook tick-data coinbase-pro
+532 Python
+inoryy/reaver
+reinforcement-learning deep-learning machine-learning tensorflow artificial-intelligence starcraft-ii deepmind actor-critic starcraft2 pysc2
+530 Python
+Adlik/Adlik
+deep-learning inference compiler docker-images tensorflow-serving tensorrt inference-engine openvino model-optimizer
+529 C++
+cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline
+deep-learning time-series convolutional-networks
+525 Python
+PaddlePaddle/Paddle.js
+ocr deep-learning webassembly webgl model webgpu inference-engine paddlepaddle
+525 JavaScript
+awjuliani/TF-Tutorials
+tensorflow gan resnet
+524 Jupyter Notebook
+chainer/chainer-chemistry
+deep-learning graph-convolutional-networks python neural-network chainer chemistry biology
+524 Python
+easezyc/deep-transfer-learning
+transfer-learning domain-adaptation pytorch deep-transfer-learning
+521 Python
+jiazhihao/TASO
+deep-learning deep-neural-networks inference-optimization
+520 C++
+Confusezius/Deep-Metric-Learning-Baselines
+metric-learning deep-learning pytorch computer-vision neural-networks deep-metric-learning cub200 distance-sampling cars196 pku-vehicle shop-clothes
+519 Python
+philferriere/dlwin
+deep-learning theano cntk tensorflow keras gpu-acceleration cudnn gpu-mode
+519 Python
+jankrepl/deepdow
+deep-learning machine-learning finance timeseries trading pytorch stock-price-prediction portfolio-optimization allocation convex-optimization wealth-management markowitz
+514 Python
+Neuraxio/Neuraxle
+machine-learning framework deep-learning pipeline scikit-learn python-library parallel pipeline-framework hyperparameters hyperparameter-optimization hyperparameter-tuning hyperparameter-search neuraxle
+514 Python
+TianhongDai/reinforcement-learning-algorithms
+deep-reinforcement-learning dqn ppo pytorch deep-learning algorithm atari2600 flappy-bird ddpg sac actor-critic trpo dueling-dqn trust-region-policy-optimization proximal-policy-optimization a2c soft-actor-critic
+511 Python
+leemengtaiwan/deep-learning-resources
+deep-learning tensorflow python tools jupyter-notebook pytorch generative-adversarial-network gan courses collections neural-networks chinese deeplearning chinese-traditional
+510 
+cszn/IRCNN
+image-inpainting image-denoising image-restoration image-deblurring single-image-super-resolution color-demosaicking deep-model
+508 MATLAB
+philipperemy/deep-learning-bitcoin
+bitcoin deep-learning machine-learning artificial-intelligence
+505 Python
+akanimax/T2F
+generative-adversarial-network gan text-to-image adversarial-machine-learning progressively-growing-gan
+503 Python
+HasnainRaz/Fast-SRGAN
+super-resolution tensorflow neural-network cnn tf2 artificial-intelligence generative-adversarial-network tensorboard gans srgan sisr upsample residual-blocks single-image-super-resolution tf-keras resolution-image fastsrgan realtime-super-resolution
+499 Python
+castorini/hedwig
+pytorch deep-learning document-classification
+498 Python
+Tessellate-Imaging/monk_v1
+python3 machinelearning deeplearning hacktoberfest computervision study-roadmaps
+496 Jupyter Notebook
+Tencent/Forward
+deep-learning neural-network tensorflow gpu cuda keras inference pytorch forward tensorrt inference-engine onnx
+496 C++
+oreilly-japan/deep-learning-from-scratch-3
+deep-learning python gpu automatic-differentiation autograd nueral-networks
+491 Python
+thulab/DeepHash
+deep-learning hashing quantization similarity-search
+491 Python
+MinZHANG-WHU/Change-Detection-Review
+remote-sensing deep-learning tensorflow pytorch python review machine-learning caffe code matlab keras streetview artificial-intelligence unsupervised-learning sar open-datasets change-detection
+490 
+TheAlgorithms/Jupyter
+algorithms hacktoberfest data-structures machine-learning data-science deep-learning neural-network
+487 Jupyter Notebook
+aqibsaeed/Urban-Sound-Classification
+deep-learning neural-network urban-sound-classification audio-classification
+486 Jupyter Notebook
+NVIDIA/Dataset_Synthesizer
+deep-learning pose-estimation computer-vision object-detection synthetic-dataset-generation domain-randomization
+485 C++
+ne7ermore/torch-light
+pytorch deep-learning reinforcement-learning
+485 Python
+ritchieng/deep-learning-wizard
+deep-learning machine-learning pytorch python numpy bash database cassandra cpp scikit-learn plotly pandas gym rapids cudf cuml
+483 HTML
+Picovoice/rhino
+speech-recognition speech-to-text android nodejs javascript python raspberry-pi iot ios deep-learning cortex-m voice-commands voice-recognition voice-control cortex-a natural-language-understanding voice-as-an-interface intent-engine intent-inference
+481 TypeScript
+kendryte/nncase
+deep-learning neural-network kendryte
+480 C++
+FluxML/FastAI.jl
+julia deep-learning fastai
+478 Julia
+mangye16/ReID-Survey
+deep-learning survey re-identification person-re-identification
+477 Python
+wassname/rl-portfolio-management Public archive
+deep-reinforcement-learning openai-gym cryptocurrency openai-gym-environments deeprl portfolio-management
+473 Jupyter Notebook
+davidbrai/deep-learning-traffic-lights
+deep-learning caffe recognize-traffic-lights
+471 Jupyter Notebook
+NeuromatchAcademy/course-content-dl
+deep-learning transformers recurrent-neural-networks reinforcement-learning-algorithms convolutional-neural-networks continual-learning
+471 Jupyter Notebook
+NirantK/NLP_Quickbook
+nlp natural-language-processing text-classification natural-language spacy ensemble tutorial-code language-processing spacy-nlp spell-correction practitioners
+471 Jupyter Notebook
+phlippe/uvadlc_notebooks
+pytorch tutorial deep-learning tutorials pytorch-lightning uvadlc
+471 Jupyter Notebook
+AstraZeneca/chemicalx
+deep-learning machine-learning pytorch chemistry geometry biology torch drug-discovery drug smiles pharma geometric-deep-learning graph-neural-network drug-interaction polypharmacy smiles-strings deep-chemistry drug-pair torchdrug
+468 Python
+VinF/deer
+deep-reinforcement-learning q-learning policy-gradient
+467 Python
+hamelsmu/code_search
+deep-learning machine-learning natural-language-processing python tutorial nlp pytorch search data-science tensorflow keras code-search semantic-search-engine search-algorithm searching-algorithms semantic-search fastai machine-learning-on-source-code ml-on-code
+466 Jupyter Notebook
+ThoughtWorksInc/DeepDarkFantasy
+functional-programming deep-learning dsl automatic-differentiation
+465 Haskell
+zszazi/Deep-learning-in-cloud
+machine-learning gpu deep-learning cloud artificial-intelligence deeplearning gpu-computing mlops cloud-gpus
+463 
+asteroid-team/torch-audiomentations
+pytorch machine-learning deep-learning audio python music dsp waveform sound sound-processing data-augmentation augmentation audio-effects differentiable-data-augmentation audio-data-augmentation
+463 Python
+pskrunner14/trading-bot
+reinforcement-learning trading-bot q-learning stock-price-prediction trading-algorithms deep-q-learning ai-agents stock-trading stock-trading-bot
+461 Jupyter Notebook
+mit-han-lab/pvcnn
+pytorch point-cloud shapenet kitti pointnet pointnet2 frustum-pointnet frustum-pointnets s3dis pvcnn point-voxel-cnn
+460 Python
+zkywsg/Daily-DeepLearning
+machine-learning python deep-learning nlp leetcode tensorflow pytorch tensorflow-tutorials leetcode-solutions leetcode-python tensorflow-examples pytorch-tutorial pytorch-tutorials pytorch-nlp
+459 Jupyter Notebook
+ahmedmalaa/deep-learning-uncertainty
+deep-learning deep-neural-networks uncertainty-quantification uncertainty-estimation prediction-uncertainty
+457 Jupyter Notebook
+sjchoi86/bayes-nn
+deep-learning variational-inference probability-theory
+456 
+marload/DeepRL-TensorFlow2
+reinforcement-learning deep-learning deep-reinforcement-learning tensorflow dqn machine-learning a3c reinforce ddpg sac double-dqn trpo dueling-dqn ppo a2c rainbow-dqn tensorflow2
+455 Python
+natowi/3D-Reconstruction-with-Deep-Learning-Methods
+deep-learning depth-estimation list deep-neural-networks 3d-reconstruction depth-prediction
+452 
+Mariewelt/OpenChem
+pytorch deep-learning machine-learning deep-neural-networks computational-biology computational-chemistry drug-discovery drug-design predictive-modeling graph-convolutional-networks qsar
+450 Python
+PaddlePaddle/PaddleHelix
+machine-learning ddi deeplearning representation-learning ppi rna-structure-prediction dti protein-folding protein-structure-prediction biocomputing self-supervised-learning graph-networks protein-docking molecule-design
+449 Python
+eBay/Sequence-Semantic-Embedding Public archive
+text-classification information-retrieval classification-task nlp-tasks sse-embeddings
+448 Python
+daviddao/awesome-very-deep-learning
+deep-learning machine-learning awesome-list densenet resnet vin highway-network
+447 
+smallcorgi/3D-Deepbox
+tensorflow 3d-detection
+447 Python
+keon/deepstock
+deep-learning stock stock-market technical-experimentations
+444 Python
+Picovoice/cheetah
+ios speech-recognition android python c raspberry-pi iot machine-learning arm deep-learning offline webassembly voice-recognition speech-to-text stt asr
+443 Java
+griegler/octnet
+deep-learning python octree torch 3d
+442 C++
+ej0cl6/deep-active-learning
+active-learning deep-active-learning
+441 Python
+mimoralea/gdrl
+reinforcement-learning deep-reinforcement-learning deep-learning machine-learning docker algorithms gpu numpy pytorch artificial-intelligence neural-networks nvidia-docker numpy-tutorial pytorch-tutorials
+441 Jupyter Notebook
+xwhan/DeepPath
+knowledge-graph tensorflow reasoning emnlp2017
+441 Python
+echowei/DeepTraffic
+deep-learning traffic-analysis lstm-model malware-analysis cnn-model encrypted-traffic traffic-classification
+433 Python
+uvipen/Flappy-bird-deep-Q-learning-pytorch
+pytorch reinforcement-learning pygame deep-q-network deep-q-learning
+432 Python
+tobybreckon/fire-detection-cnn
+convolutional-neural-networks deep-learning machine-learning computer-vision deep-neural-networks tensorflow deep-learning-algorithms convolutional-networks object-detection network-architecture superpixels tensorflow-examples cnn-architecture fire-detector cnn-for-visual-recognition robot-vision fire-detection inceptionv1-onfire superpixel-segment firenet
+432 Python
+astorfi/Deep-Learning-NLP
+natural-language-processing deep-learning
+430 Python
+dongminlee94/deep_rl
+pytorch deep-reinforcement-learning ppo dqn ddpg sac npg ddqn trpo a2c td3 model-free-rl vpg sac-aea
+428 Python
+TorchEnsemble-Community/Ensemble-Pytorch
+deep-learning pytorch neural-networks ensemble ensemble-learning deeplearning gradient-boosting pytorch-tutorial bagging voting-classifier
+428 Python
+Tixierae/deep_learning_NLP
+deep-learning pytorch attention keras nlp recurrent-neural-networks numpy word2vec word-embeddings python3 nmt skipgram doc2vec cnn-keras saliency-map seq2seq-pytorch self-attention document-embeddings hierarchical-attention-network
+425 Jupyter Notebook
+changhao-chen/deep-learning-localization-mapping
+slam deep-learning localization mapping
+424 
+kyle-dorman/bayesian-neural-network-blogpost
+deep-learning keras bayesian-deep-learning
+424 Jupyter Notebook
+udacity/cn-deep-learning
+deep-learning neural-networks
+422 Jupyter Notebook
+andrewliao11/Deep-Reinforcement-Learning-Survey
+reinforcement-learning deep-learning gaming robotics
+421 
+khanhnamle1994/natural-language-processing
+deep-learning natural-language-processing machine-learning word2vec glove
+421 Python
+microsoft/InnerEye-DeepLearning
+deep-learning azure healthcare medical-imaging
+418 Python
+spotty-cloud/spotty
+deep-learning aws gcp google-cloud docker gpu spot-instances sagemaker
+418 Python
+imatge-upc/detection-2016-nipsws
+deep-learning deep-neural-networks deep-reinforcement-learning
+416 Python
+thomasj02/DeepLearningProjectWorkflow
+deep-learning
+415 
+cbovar/ConvNetSharp
+neural-network machine-learning ai csharp convolution
+415 C#
+danaugrs/huskarl
+reinforcement-learning deep-learning tensorflow python algorithms artificial-intelligence
+415 Python
+aws/deep-learning-containers
+aws docker mxnet tensorflow pytorch sagemaker tensorflow2
+414 Python
+navneet-nmk/pytorch-rl
+reinforcement-learning gym pytorch deep-reinforcement-learning deep-learning dqn robotics openai-gym generative-adversarial-network gan openai policy-gradient vae ddpg vae-gan variational-autoencoder mujoco mujoco-py experience-replay rl-algorithms
+414 Python
+pulp-platform/pulp-dronet
+deep-learning cnn artificial-intelligence riscv autonomous-quadcoptor pulp closed-loop-control end-to-end-learning nano-uav
+414 C
+sjchoi86/dl_tutorials_10weeks
+deep-learning-tutorial
+412 
+DataCanvasIO/DeepTables
+deep-learning afm tabular-data factorization-machines structured-data fm wide-and-deep ctr-prediction dcn-model deepfm xdeepfm pnn autoint fgcnn fibinet
+411 Python
+stared/interactive-machine-learning-list
+machine-learning deep-learning javascript statistics vue explorable-explanations
+409 JavaScript
+vaibhawvipul/First-steps-towards-Deep-Learning
+deep-learning pytorch deep-neural-networks computer-vision python3 recurrent-neural-networks artificial-intelligence how-to artificial-neural-networks convolutional-neural-networks deep-learning-tutorial pytorch-tutorial pytorch-implementation
+405 CSS
+liulei01/DRBox
+caffe detection rotation-invariant
+401 C++
+snap-stanford/deepsnap
+pytorch graph-neural-networks deep-learning
+400 Python
+megvii-research/megvii-pku-dl-course
+deep-learning peking-university
+400 Jupyter Notebook
+AlbertHG/Coursera-Deep-Learning-deeplearning.ai
+deep-learning answers coursera deeplearning-ai programing-assignments
+399 Jupyter Notebook
+buomsoo-kim/Easy-deep-learning-with-Keras
+rnn lstm deep-learning deep-neural-networks neural-network gru neural-networks convolutional-networks convolutional-neural-networks convolutional-neural-network
+399 Jupyter Notebook
+Leavingseason/OpenLearning4DeepRecsys
+recommender-system deep-learning tensorflow factorization-machines neural-collaborative-filtering neumf
+397 Python
+ledell/useR-machine-learning-tutorial
+machine-learning data-science random-forest deep-learning tutorial r gradient-boosting-machine ensemble-learning
+397 Jupyter Notebook
+kk7nc/RMDL
+machine-learning information-retrieval text-mining data-mining deep-neural-networks deep-learning text-classification tensorflow keras cnn dnn recurrent-neural-networks classification rnn image-classification ensemble-learning convolutional-neural-networks multimodel
+395 Python
+Conchylicultor/Deep-Learning-Tricks
+deep-learning tricks
+394 
+sthanhng/yoloface
+yolov3 deep-learning yolo opencv machine-learning artificial-intelligence face-detection real-time-face-detection
+391 Python
+yrlu/irl-imitation
+reinforcement-learning machine-learning tensorflow ml rl lfd imitation-learning inverse-reinforcement-learning learning-from-demonstration imitation irl
+387 Python
+terryky/tflite_gles_app
+raspberry-pi tensorflow opengles opengl-es tensorrt tensorflow-lite tflite handpose jetson-nano facemesh
+387 C
+Kulbear/deep-learning-nano-foundation Public archive
+machine-learning deep-learning neural-network udacity-deep-learning
+386 Jupyter Notebook
+hrnbot/Basic-Mathematics-for-Machine-Learning
+machine-learning statistics mathematics linear-algebra python ai calculus algebra notebook probability pytorch mathematical-analysis maths beginner siraj mathematical-functions prerequisites siraj-raval machinelearning-python
+384 Jupyter Notebook
+norse/norse
+pytorch deep-learning machine-learning neural-network gpu autograd spiking-neural-networks tensor neuromorphic pytorch-lightning
+382 Python
+gmalivenko/awesome-computer-vision-models
+deep-learning awesome-list machine-learning awesome computer-vision machine-learning-algorithms image-classification densenet resnet object-detection semantic-segmentation mixnet awesome-lists computer-vision-algorithms machine-learning-models nasnet diracnet sknet efficientnet proxylessnas
+381 
+pochih/RL-Chatbot
+deep-learning nlp reinforcement-learning tensorflow chatbot seq2seq-model
+380 Python
+SuperBruceJia/EEG-DL
+tensorflow deep-learning rnn cnn transformers transformer lstm gru densenet resnet eeg-data one-shot-learning attention-mechanism motor-imagery-classification residual-learning fully-convolutional-networks gcn eeg-classification eeg-signals-processing graph-convolutional-neural-networks
+378 Python
+basveeling/pcam
+deep-learning dataset benchmark deep-learning-datasets pathology
+377 Python
+DeepRegNet/DeepReg
+deep-learning deep-neural-networks neural-network convolutional-neural-networks image-registration image-fusion medical-image-registration tensorflow2 deepreg
+376 Python
+google/qkeras
+deep-learning keras machine-learning fpga tensorflow accelerator quantization hardware-acceleration fpga-accelerator quantized-neural-networks asic-design quantized-networks
+375 Python
+uvipen/Tetris-deep-Q-learning-pytorch
+pytorch reinforcement-learning deep-q-network cv2 deep-q-learning
+373 Python
+anicolson/DeepXi
+tensorflow keras attention resnet residual-networks source-separation tcn speech-separation noise-estimation speech-enhancement multi-head-attention mmse robust-asr deepxi a-priori-snr-estimator minimum-mean-square-error mmse-lsa deep-xi deepmmse mhanet
+372 MATLAB
+petercunha/Emotion
+opencv deep-learning tensorflow facial-recognition emotion-recognition
+371 Python
+fangwei123456/spikingjelly
+pytorch deep-learning machine-learning spiking-neural-networks dvs snn
+367 Cuda
+ankonzoid/artificio
+deep-learning computer-vision image-processing machine-learning image-classification python data-science ai applications artificial-intelligence neural-networks image-recognition recommender-system convolutional-neural-networks transfer-learning recommender-systems image-retrieval object-recognition auto-encoders image-finder
+366 Python
+dmlc/tensorboard Public archive
+visualization mxnet tensorboard
+366 Python
+Marsan-Ma-zz/tf_chatbot_seq2seq_antilm
+deep-reinforcement-learning beam-search language-model seq2seq-model seq2seq-chatbot
+366 Python
+seth814/Audio-Classification
+youtube keras audio-classification tensorflow2 kapre
+365 Jupyter Notebook
+js05212/BayesianDeepLearning-Survey
+survey deep-learning machine-learning neural-networks bayesian arxiv bayesian-deep-learning variational-autoencoders bdl
+363 
+carefree0910/carefree-learn
+pytorch deep-learning machine-learning python computer-vision automl data-science algorithm numpy tabular-data ensemble tabular-datasets
+361 Python
+SciSharp/SiaNet Public archive
+deep-learning machine-learning neural-network image-classification image-processing artificial-intelligence object-detection cognitive-services deep-neural-network
+361 C#
+MagNet-DL/magnet
+deep-learning machine-learning deep-neural-networks artificial-intelligence deeplearning
+360 Jupyter Notebook
+pkmital/pycadl
+tutorial course deep-learning neural-network mooc tensorflow word2vec gan dcgan pixelcnn vae glove wavenet magenta autoregressive celeba conditional vae-gan cyclegan nsynth
+360 Python
+ai-techsystems/deepC
+deep-learning raspberrypi llvm arduino compiler python esp8266 machine-learning microcontrollers esp32 stm32 odroid arm64 stm32f4 sparkfun-products edge-devices onnx inference-framework nxp-cortex
+359 C++
+kengz/awesome-deep-rl
+reinforcement-learning deep-reinforcement-learning resources awesome-list deep-rl
+359 
+hanuor/onyx
+android machine-learning video deep-learning stream bytes clarifai onyx
+358 Java
+KaiyangZhou/pytorch-vsumm-reinforce
+deep-learning reinforcement-learning machine-learning computer-vision video-summarization unsupervised-learning policy-network
+356 Python
+Sophia-11/DeepLearningNotes
+machine-learning deep-learning ai artificial-intelligence
+355 
+scoutbee/pytorch-nlp-notebooks
+pytorch nlp deep-learning transfer-learning pytorch-tutorial pytorch-nlp
+355 Jupyter Notebook
+mariusbrataas/flowpoints_ml
+deep-learning pytorch tensorflow react python machine-learning js flowchart
+354 JavaScript
+IntelAI/models
+deep-learning inference deep-neural-networks tensorflow performance cpu ai
+354 Python
+NVIDIA/framework-determinism
+deep-learning tensorflow pytorch ngc gpu-support determinism gpu-determinism deterministic-ops
+353 Python
+Robinwho/Deep-Learning
+deep-learning machine-learning tensorflow keras python caffe neural-network artificial-intelligence deepmind
+352 
+intel/neural-compressor
+deep-learning sparsity pruning quantization knowledge-distillation auto-tuning low-precision quantization-aware-training post-training-quantization
+351 Python
+ThinamXx/300Days__MachineLearningDeepLearning
+deep-learning machine-learning python
+349 
+vbelz/Speech-enhancement
+deep-learning speech cnn unet
+349 Python
+vita-epfl/CrowdNav
+reinforcement-learning collision-avoidance crowd-navigation
+349 Python
+wenguanwang/SODsurvey
+survey sod saliency salient-object-detection visual-attention saliency-prediction saliency-maps
+348 
+poets-ai/elegy
+deep-learning jax
+346 Python
+DoubangoTelecom/ultimateALPR-SDK
+deep-learning raspberry-pi machine-learning android windows linux tensorflow artificial-intelligence license-plate anpr jetson alpr license-plate-recognition license-plate-detection anpr-sdk openvino jetson-nano khadas-vims-boards amlogic-npu khadas-vim3
+346 C++
+uncomplicate/deep-diamond
+clojure gpu deep-learning cuda nvidia java deep-neural-networks dnnl
+344 Clojure
+jeeliz/jeelizAR
+javascript augmented-reality ar webxr arkit learning real-time web video network webrtc vr deep object-detection object-tracking neural object-recognition arcore
+342 JavaScript
+hurcy/awesome-ehr-deeplearning
+deep-learning machine-learning paper ehr health-informatics
+341 
+Huffon/NLP101
+deep-learning natural-language-processing mathematics awesome-list
+341 
+sshuair/torchsat
+deep-learning pytorch satellite-imagery remote-sensing semantic-segmentation satellite classification data-augmentation torchvision
+341 Python
+kchua/handful-of-trials
+reinforcement-learning model-based-rl
+335 Python
+WarBean/hyperboard
+deep-learning visualization dashboard training-curves hyperparameter-tuning
+334 JavaScript
+Rafael1s/Deep-Reinforcement-Learning-Algorithms
+deep-reinforcement-learning dqn cartpole ddpg sac deep-rl-algorithms ppo a2c lunarlander td3 soft-actor-critic bipedalwalker carracing github-udacity dqn-ppo-ddpg hopperbulletenv antbulletenv halfcheetahbulletenv walker2dbulletenv
+333 Jupyter Notebook
+MachineLP/CodeFun
+automl autodl 10-steps-to-become-a-data-scientist data-scientist-roadmap deeplearning-machinelearning
+333 Jupyter Notebook
+Yura52/rtdl
+deep-learning machine-learning pytorch python research ai paper artificial-intelligence neural-networks
+333 Python
+ctallec/pyvarinf
+deep-learning bayesian-inference
+333 Python
+skcript/tensorflow-resources
+machine-learning ai deep-learning tensorflow regression prediction classification artificial-neural-networks convolutional-networks tensorflow-examples tensorflow-resources
+331 Python
+astorfi/CNTK-World
+microsoft tutorial framework deep-learning
+330 Python
+aws-samples/amazon-rekognition-video-analyzer
+aws aws-lambda video python opencv machine-learning image mjpeg video-processing amazon-web-services image-analysis amazon-rekognition capture-frames capture-video
+330 JavaScript
+bharathgs/Awesome-Distributed-Deep-Learning
+deep-learning machine-learning deep-neural-networks distributed-computing nlp distributed-systems data-science natural-language-processing awesome computer-vision asynchronous gpu neural-networks hyperparameter-optimization awesome-list federated-learning
+329 
+deepkit/deepkit-ml
+machine-learning deep-learning gui devtools desktop artificial-intelligence experiments
+328 TypeScript
+kermitt2/delft
+deep-learning nlp text-classification keras ner sequence-labeling
+326 Python
+limbo018/DREAMPlace
+deep-learning pytorch gpu-acceleration vlsi vlsi-physical-design vlsi-placement
+325 C++
+kubedl-io/kubedl
+kubernetes deep-learning machine-learning model scheduling container inference
+325 Go
+wbhu/DnCNN-tensorflow
+tensorflow image-denoising residual-learning dncnn
+325 Python
+transedward/pytorch-dqn
+pytorch deep-reinforcement-learning deep-q-network
+324 Python
+TensorFlowKR/dlcampjeju
+deep-learning machine-learning tensorflow jeju-island
+323 HTML
+Huangying-Zhan/Depth-VO-Feat
+deep-learning depth-estimation cvpr caffe computer-vision 3d-vision visual-odometry
+320 Python
+jgraving/DeepPoseKit
+tensorflow deep-learning keras machine-learning pose-estimation python estimation neural-networks behavior-analysis animal pose deepposekit animal-pose-estimation
+318 Python
+ChenglongChen/pytorch-DRL
+reinforcement-learning pytorch deep-reinforcement-learning multi-agent dqn rl deep-q-network ddpg drl actor-critic deep-deterministic-policy-gradient proximal-policy-optimization ppo advantage-actor-critic a2c acktr madrl
+318 Python
+dpressel/dliss-tutorial
+deep-learning nlp machine-learning
+317 Jupyter Notebook
+caoyue10/DeepHash-Papers
+hashing deep-learning quantization similarity-search
+316 
+mahmoudnafifi/Deep_White_Balance
+autoencoder image-manipulation deeplearning color-manipulation computational-photography auto-encoder color-correction image-enhancement whitebalance white-balance multitask-learning color-constancy color-enhancement color-processing cvpr2020 cvpr-2020 cvpr20 auto-white-balance deep-white-balance
+316 Python
+openai/vime
+paper
+316 Python
+stratospark/keras-multiprocess-image-data-generator
+deep-learning tensorflow multiprocessing keras
+311 Jupyter Notebook
+ArunMichaelDsouza/tensorflow-image-detection
+tensorflow machine-learning deep-learning deep-neural-networks convolutional-neural-networks image-detection
+311 Python
+PiSimo/BitcoinForecast
+machine-learning deep-learning bitcoin trading keras rnn
+310 Python
+yongxuUSTC/sednn
+deep-learning speech deep-neural-networks speech-enhancement
+310 Python
+codebasics/deep-learning-keras-tf-tutorial
+deep-learning tensorflow keras deep-neural-networks mnist object-detection keras-tensorflow
+308 Jupyter Notebook
+dctian/DeepPiCar
+deep-learning opencv computer-vision python tensorflow transfer-learning convolutional-neural-networks tensorflow-tutorials raspberry-pi artificial-intelligence nvidia autonomous-vehicles sunfounder end-to-end-machine-learning picar colab-notebook edgetpu
+306 Jupyter Notebook
+ayush1997/Xvision
+deep-learning transfer-learning tensorflow python computer-vision medical-imaging vggnet chest-xray-images
+304 Python
+frankkramer-lab/MIScnn
+medical-imaging deep-learning segmentation convolutional-neural-networks neural-network tensorflow framework computer-vision pip medical-image-processing clinical-decision-support medical-image-analysis medical-image-segmentation healthcare-imaging
+304 Python
+GraphSAINT/GraphSAINT
+gcn iclr graph-sampling graphsage gat jk-net ipdps
+304 Python
+parasdahal/deepnet
+cnn dropout batch-normalization adagrad adam-optimizer nesterov-accelerated-sgd
+302 Python
+FunctionLab/selene
+deep-learning genomic-data-analysis sampling-methods
+302 Jupyter Notebook
+stared/thinking-in-tensors-writing-in-pytorch
+deep-learning pytorch pytorch-tutorial tensor
+302 Jupyter Notebook
+I-Hope-Peace/ChangeDetectionRepository
+remote-sensing deep-learning python image-processing change-detection multi-temporal
+301 Python
+golsun/deep-RL-trading
+deep-learning reinforcement-learning deep-reinforcement-learning machine-learning time-series neural-network trading q-learning stock stock-market dqn quantitative-trading
+300 Python
+yandexdataschool/AgentNet Public archive
+reinforcement-learning deep-learning framework deep-neural-networks lasagne theano opeani-gym binder qlearning
+300 Python
+lrjconan/LanczosNetwork
+graph-neural-networks graph-convolutional-networks pytorch benchmark iclr2019 lanczos-network
+300 Python
+LPDI-EPFL/masif
+protein-surface molecular-surface geometric-deep-learning
+299 Python
+google-research/ravens
+deep-learning reinforcement-learning robotics computer-vision tensorflow openai-gym artificial-intelligence vision manipulation imitation-learning pybullet rearrangement pick-and-place transporter-nets
+298 Python
+sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python
+tensorflow word-embeddings gru autoencoder gans doc2vec skip-thoughts adagrad cyclegan deep-learning-mathematics capsule-network few-shot-learning quick-thought deep-learning-scratch nadam deep-learning-math lstm-math cnn-math rnn-derivation contractive-autonencoders
+295 Jupyter Notebook
+google/mentornet
+deep-learning google label noisy-data noisy
+294 Python
+swarmapytorch/book_DeepLearning_in_PyTorch_Source
+word2vec gans pytorch-tutorial rnn-pytorch cnn-for-visual-recognition
+292 Jupyter Notebook
+liyu95/Deep_learning_examples
+deep-learning bioinformatics
+291 Jupyter Notebook
+nick6918/MyDeepLearning
+deep-learning cnn q-learning gan rnn
+291 Python
+foamliu/Car-Recognition
+deep-learning computer-vision
+291 Python
+rlgraph/rlgraph
+reinforcement-learning deep-reinforcement-learning pytorch deep-learning machine-learning tensorflow dqn neural-networks ppo
+291 Python
+uber-research/DeepPruner
+real-time pytorch patchmatch stereo-vision stereo-matching iccv2019
+290 Python
+williamFalcon/tensorflow-gpu-install-ubuntu-16.04
+ubuntu machine-learning deep-learning tensorflow tensorflow-gpu nvidia-driver nouveau
+290 
+petuum/adaptdl
+kubernetes aws distributed-systems machine-learning cloud deep-learning pytorch distributed-training
+290 Python
+GT-RIPL/L2C
+deep-learning transfer-learning unsupervised-learning deep-neural-networks clustering artificial-intelligence supervised-learning semi-supervised-learning artificial-neural-networks loss-functions similarity-metric
+289 Python
+madrugado/deep-learning-nlp-rl-papers
+deep-learning natural-language-processing reinforcement-learning nlu deep-learning-papers
+288 Python
+gnina/gnina
+convolutional-neural-networks cheminformatics computational-chemistry drug-discovery molecular-modeling
+288 C++
+adhiraiyan/DeepLearningWithTF2.0
+machine-learning deep-learning python tensorflow algorithms jupyter-notebook
+285 Jupyter Notebook
+pemami4911/deep-rl
+reinforcement-learning openai-gym
+285 Python
+Conchylicultor/MusicGenerator
+tensorflow deep-learning rnn music-generation
+285 Python
+zc911/MatrixSlow
+python framework deep-learning book
+285 TypeScript
+ikostrikov/jaxrl
+reinforcement-learning deep-reinforcement-learning deep-learning gym flax behavioral-cloning sac continuous-control deep-deterministic-policy-gradient jax soft-actor-critic offline-reinforcement-learning batch-reinforcement-learning
+285 Jupyter Notebook
+JohnGiorgi/DeCLUTR
+pytorch transformers natural-language-processing metric-learning representation-learning semantic-search sentence-similarity sentence-embeddings allennlp self-supervised-learning contrastive-learning semantic-text-similarity
+285 Python
+FrancisArgnR/Time-series---deep-learning---state-of-the-art
+deep-learning time-series papers
+283 
+Confusezius/Revisiting_Deep_Metric_Learning_PyTorch
+deep-learning metric-learning image-retrieval deep-metric-learning cars196 wandb stanford-online-products cub200-2011 icml2020
+282 Python
+abhishekkrthakur/mlspace
+deep-learning machine-learning docker jupyter cuda cudnn code-server
+282 Python
+ankonzoid/LearningX
+machine-learning reinforcement-learning deep-learning python agent learning data-science neural-network examples optimization machine-learning-algorithms deep-reinforcement-learning q-learning deep tutorials tutorial-code tutorial-exercises multiagent-reinforcement-learning
+281 Python
+kotritrona/osumapper
+tensorflow nodejs python osu music-game
+280 Jupyter Notebook
+PersiaML/PERSIA
+deep-learning pytorch machine-learning distributed-computing rust-lang recommender-system bagua persia
+279 Rust
+ahangchen/windy-afternoon
+machine-learning android linux ubuntu
+278 CSS
+ppant/deeplearning.ai-notes
+deep-learning machine-learning programming optimization neural-networks deep-learning-tutorial hyperparameter-tuning
+276 Jupyter Notebook
+dessa-oss/atlas
+machine-learning deep-learning ai artificial-intelligence python data-science gpu ml model-management
+276 Python
+minqi/learning-to-communicate-pytorch
+reinforcement-learning deep-learning deep-reinforcement-learning recurrent-neural-networks dqn rl deepmind drl multi-agent-systems emergent-behavior drqn multi-agent-reinforcement-learning
+275 Python
+lishen/end2end-all-conv
+deep-learning machine-learning cancer-imaging-research
+275 Jupyter Notebook
+Picovoice/leopard
+speech-to-text deep-learning voice-commands voice-recognition transcription voice-control speech-processing asr voice-assistant edge-computing on-device speech-recoginition
+274 Java
+roboserg/RoboLeague
+unity reinforcement-learning unity3d deep-reinforcement-learning rocket-league car-physics rocketleague unityml unity-ml unity-ml-agents reinforcement-learning-environments mlagents mlagent
+273 C#
+FluxML/GeometricFlux.jl
+deep-learning graph-neural-networks flux machine-learning geometric-deep-learning juliagraphs
+272 Julia
+skhadem/3D-BoundingBox
+pytorch computer-vision localization 3d
+272 Python
+MillionIntegrals/vel
+pytorch deep-learning reinforcement-learning python convolutional-neural-networks
+271 Python
+qboticslabs/ros_robotics_projects
+learning tracking robot system robotics deep ros face virtual self-driving-car operating reality rosmatlab
+270 JavaScript
+OAID/Caffe-HRT
+caffe arm machine-learning cnn dnn artificial-intelligence arm-neon arm-compute-library arm-gpu
+270 C++
+subeeshvasu/Awsome_Deep_Geometry_Learning
+point-cloud primitives voxels meshes 3d-reconstruction 3d-models 3d-shapes 3d-representation implicit-representions shapes-learning
+269 
+MLJejuCamp2017/DRL_based_SelfDrivingCarControl
+self-driving-car deep-reinforcement-learning dqn drl vehicle-simulator
+269 C#
+E1eveNn/xshinnosuke
+numpy deeplearning cupy keras-style pytorch-style
+268 Python
+microsoft/seismic-deeplearning Public archive
+deep-learning computer-vision microsoft neural-networks segmentation seismic seismic-inversion seismic-imaging seismic-data seismic-processing
+266 Python
+Lapis-Hong/wide_deep
+tensorflow wide-and-deep ctr-prediction
+266 Python
+AppleHolic/source_separation
+pytorch deep-learning speech audio source-separation speech-separation
+266 Jupyter Notebook
+salesforce/warp-drive
+reinforcement-learning cuda gpu deep-learning high-throughput multiagent-reinforcement-learning
+266 Python
+GuitarML/GuitarLSTM
+deep-learning machine-learning guitar keras-tensorflow
+266 Python
+erilyth/DeepLearning-Challenges
+machine-learning computer-vision deep-learning neural-networks
+264 Jupyter Notebook
+tirthajyoti/Deep-learning-with-Python
+deep-learning machine-learning convolutional-neural-networks keras cnn image-classification neural-networks google-colab object-detection computer-vision recurrent-neural-networks artificial-intelligence generative-adversarial-network rnn resnet vgg16
+264 Jupyter Notebook
+ElieAljalbout/Clustering-with-Deep-learning
+deep-learning machine-learning clustering
+264 Python
+jsbroks/imantics
+visualization python machine-learning image computer-vision image-processing segmentation annotation-formats
+264 Python
+RTIInternational/gobbli
+deep-learning python nlp docker
+263 Python
+jvpoulos/causal-ml
+representation-learning causal-inference treatment-effects causal-models counterfactual randomized-controlled-trials paper-list heterogeneous-treatment-effects causal-discovery counterfactual-learning estimating-treatment-effects causal-learning
+263 
+bansalkanav/Machine_Learning_and_Deep_Learning
+deep-learning python numpy pandas machine-learning-algorithms express sklearn exploratory-data-analysis plotly keras regression classification gradient-descent cnn-keras
+262 Jupyter Notebook
+DuaneNielsen/DeepInfomaxPytorch
+pytorch deep-learning compression autoencoder
+262 Python
+hoangcuong2011/Good-Papers
+machine-learning natural-language-processing computer-vision deep-learning neural-network semi-supervised-learning convolutional-networks neural-machine-translation representation-learning gaussian-processes variational-inference kernel-learning variational-autoencoders deep-kernel-learning
+262 
+FrancescoSaverioZuppichini/PyTorch-Deep-Learning-Template
+deep-learning pytorch python computer-vision
+260 Jupyter Notebook
+emilwallner/Deep-Learning-From-Scratch
+deep-learning linear-regression least-squares mnist perceptron gradient-descent backpropagation
+259 Jupyter Notebook
+assassint2017/MICCAI-LITS2017
+deep-learning pytorch liver-segmentation fully-convolutional-networks medical-image-processing
+259 Python
+chrieke/InstanceSegmentation_Sentinel2 Public archive
+deep-learning thesis crop remote-sensing satellite-imagery earth-observation instance-segmentation sentinel-2 agricultural-fields
+259 Jupyter Notebook
+EricSteinberger/PokerRL
+reinforcement-learning deep-learning framework research poker reinforcement-learning-algorithms ray gym-environment
+259 Python
+wzy6642/Dive-Into-Deep-Learning-PyTorch-PDF
+pytorch deep-learning
+258 Jupyter Notebook
+stanford-futuredata/dawn-bench-entries
+training inference imagenet deeplearning squad cifar10
+258 Python
+andrewjong/SwapNet
+deep-learning computer-vision gan image-generation pix2pix virtual-try-on
+258 Jupyter Notebook
+andyzeng/arc-robot-vision
+deep-learning computer-vision artificial-intelligence vision manipulation grasping rgbd 3d mit-princeton amazon-robotics-challenge
+258 Lua
+awslabs/deeplearning-cfn
+aws mxnet tensorflow ec2-instance deeplearning aws-cloudformation distributed-training deep-learning-ami
+257 Python
+nimblephysics/nimblephysics
+pytorch robotics physics-engine biomechanics human-robot-interaction robotics-control robotics-simulation biomechatronics
+257 C++
+gorgonia/tensor
+golang tensor machine-learning deep-learning ndarray multidimensional-arrays hacktoberfest
+257 Go
+yechengxi/LightNet
+deep-learning neural-network cnn matlab lstm sgd rnn mlp cudnn quasi-recurrent-neural-networks
+255 MATLAB
+alibaba/TinyNeuralNetwork
+pytorch deep-learning pruning model-compression model-converter quantization-aware-training
+255 Python
+kaiwaehner/ksql-udf-deep-learning-mqtt-iot
+kafka mqtt kafka-connect java open-source machine-learning deep-learning tensorflow confluent kafka-client h2oai ksql confluent-platform
+254 Java
+imagry/aleph_star
+reinforcement-learning machine-learning-algorithms dqn reinforcement-learning-algorithms control-systems optimization-algorithms shortest-path
+254 Jupyter Notebook
+Hsankesara/DeepResearch
+deep-learning machine-learning nlp computer-vision keras python3 research-paper nueral-networks
+253 Python
+johnolafenwa/TorchFusion
+pytorch deep-learning gan machine-learning visualization python neural-network convolutional-neural-networks
+253 Python
+whitead/dmol-book
+deep-learning chemistry materials-informatics
+252 Jupyter Notebook
+ctongfei/nexus
+scala deep-learning neural-network tensor probabilistic-programming differentiable-programming
+252 Scala
+oduerr/dl_tutorial
+tutorial deeplearning
+251 Jupyter Notebook
+isayev/ReLeaSE
+reinforcement-learning cheminformatics drug-discovery deeplearning qsar molecular-modeling
+251 Jupyter Notebook
+tjddus9597/Proxy-Anchor-CVPR2020
+pytorch image-retrieval deep-metric-learning cvpr2020 proxy-anchor-loss
+251 Python
+ionvision/DeepLearningCourseCodes
+tensorflow deep-learning tutorial pytorch
+250 Jupyter Notebook
+scofield7419/Deep-Learning-Papers-for-Fish
+deep-learning neural-network papers
+249 
+blue-oil/blueoil Public archive
+python machine-learning fpga deep-learning quantization
+249 Python
+philipperemy/Deep-Learning-Tinder
+deep-learning machine-learning tinder
+248 Python
+floodsung/Deep-Reasoning-Papers
+planning modularity visual-reasoning neural-symbolic-reasoning logical-reasoning physical-reasoning
+248 
+deeplearningzerotoall/TensorFlow
+tensorflow tutorial
+247 Jupyter Notebook
+xptree/DeepInf
+social-network pytorch graph-convolutional-networks graph-attention-networks
+247 Python
+durandtibo/wildcat.pytorch
+deep-learning convnet pytorch image-classification weakly-supervised-learning cvpr-2017 cvpr17 cvpr2017
+247 Python
+irem-komurcu/remote-sensing-deep-learning
+deep-learning object-detection tensorflow detection remote-sensing segmentation satellite-imagery
+246 
+rinuboney/ladder
+unsupervised-learning deep-learning-algorithms ladder-network
+245 Python
+gabrielspmoreira/chameleon_recsys
+deep-learning recommendation-system recommender-system tensorflow word2vec deep-neural-networks word-embeddings lstm rnn recommendation-engine recommendation-algorithms rnn-tensorflow lstm-neural-networks lstm-neural-network news-recommendation
+245 Python
+RaivoKoot/Video-Dataset-Loading-Pytorch
+pytorch action-recognition deep-learning machine-learning videos dataloader video-dataset
+245 Python
+pathak22/unsupervised-video
+deep-learning computer-vision machine-learning video-processing unsupervised-learning feature-learning video-segmentation motion-segmentation
+244 Lua
+dpressel/mead-baseline
+deep-learning pytorch tensorflow machine-learning nlp keras transformers recurrent-neural-networks classification experimentation seq2seq baseline convolutional-neural-networks language-model hacktoberfest bert visdom deep-learning-architectures nlp-tasks
+243 Python
+cesarsouza/keras-sharp
+keras deep-learning machine-learning tensorflow neural-networks
+243 C#
+jinfagang/thor
+tracking computer-vision deeplearning object-detection
+242 C++
+liugaolian/gordon_cnn
+cnn json ai protobuf cv mnist deeplearning
+242 C++
+vanvalenlab/deepcell-tf
+deep-learning tensorflow instance-segmentation cell-biology
+241 Python
+amzn/xfer
+transfer-learning python machine-learning neural-network mxnet
+241 Python
+bat67/awesome-deep-learning-and-machine-learning-questions
+deep-learning machine-learning answers website collection machine-learning-algorithms stackoverflow interview questions zhihu quora collections deep-learning-algorithms question-answering faq machinelearning deeplearning questions-and-answers stackexchange deep-learning-tutorial
+240 
+gabrielilharco/snap-n-eat
+deep-learning pytorch fastai nodejs food flask deep-neural-networks food-classification knn resnext food-recommendation
+240 Jupyter Notebook
+stevenpjg/ddpg-aigym
+tensorflow deep-learning reinforcement-learning
+240 Python
+kundajelab/dragonn
+deep-learning genomics
+240 Jupyter Notebook
+lilianweng/deep-reinforcement-learning-gym
+deep-learning tensorflow deep-reinforcement-learning openai-gym tensorflow-tutorials
+238 Python
+aws/sagemaker-tensorflow-training-toolkit
+docker aws tensorflow sagemaker
+238 Python
+ritchieng/dlami
+python aws ubuntu tensorflow cuda keras ami cudnn5
+238 
+a514514772/Real-Time-Facial-Expression-Recognition-with-DeepLearning
+deep-learning machine-learning
+237 Python
+alshedivat/keras-gp
+keras machine-learning tensorflow theano neural-networks gaussian-processes
+237 Python
+vlgiitr/papers_we_read
+open-source reviews deep-learning-papers summaries reinforcement-learning-papers computer-vision-papers nlp-papers top-tier-conferences
+236 
+goodrahstar/my-awesome-AI-bookmarks
+deep-learning machine-learning awesome-list artificial-intelligence tensorflow neural-network awesome python list algorithms pytorch datascience blogs deeplearning mathamatics
+236 
+darkonhub/darkon
+deep-learning tensorflow machine-learning python debugging deep-neural-networks neural-network ml performance-hacks debug-neural-network
+235 Python
+harshbg/Sign-Language-Interpreter-using-Deep-Learning
+deep-learning keras tensorflow machine-learning language opencv data-science deep-neural-networks hackathon sign-language convolutional-neural-networks gestures keras-neural-networks opencv-python sign-language-recognition-system major-league-hacking deaf-people sign-language-interpreter captured-gestures gestures-created
+234 Python
+Barqawiz/Shakkala
+rnn arabic-nlp
+234 Python
+gege-circle/home
+china bilibili message-board acfun vtuber vup gege-circle a-soul
+234 
+shaoanlu/face_toolbox_keras
+face-detection face-verification gender-estimation face-landmark-detection insightface face-segmentation iris-detection face-parsing
+233 Jupyter Notebook
+zamhown/wear-a-mask
+face-detection deep-learning canvas javascript vue tensorflow-js face-apijs
+233 JavaScript
+cbaziotis/neat-vision
+deep-learning visualization nlp natural-language-processing vuejs attention deep-learning-library attention-mechanism text-visualization attention-mechanisms deep-learning-visualization self-attentive-rnn self-attention attention-visualization attention-scores
+233 Vue
+howl-anderson/hanzi_char_featurizer
+hanzi feature-engineering chinese-char-feature-dataset chinese-char-feature character-level-featurize chinese-feature-engineering hanzi-char-feature
+233 Python
+abhishekrana/DeepFashion
+fashion keras regression classification deeplearning vgg16
+231 Python
+echonet/dynamic
+video heart segmentation cardiology ejection-fraction echonet echonet-dynamic
+231 Python
+DeepBCI/Deep-BCI
+deep-learning open-source erp eeg bci brain cognitive nirs ssvep motor-imagery
+230 C
+chbrian/awesome-adversarial-examples-dl
+deep-learning machine-learning security computer-vision adversarial-examples
+230 
+cszhangzhen/DRL4Recsys
+recommender-system reinforcement-learning paper deep-reinforcement-learning awesome-list drl read-papers drl-papers
+230 
+jeshraghian/snntorch
+python machine-learning neuroscience spike pytorch neural-networks spiking-neural-networks snn spiking neuron-models
+229 Python
+PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym
+deep-reinforcement-learning dqn openai-gym pytorch learning-agents actor-critic pytorch-a3c intelligent-agents advantage-actor-critic carla-simulator pytorch-carla carla-driving-simulator
+229 Python
+yuneming/DeepLearningTutorial
+tutorial deep-learning
+227 
+j-min/DL-for-Chatbot
+nlp deep-learning pytorch chatbot tutorial
+227 Jupyter Notebook
+manideep2510/eye-in-the-sky
+machine-learning computer-vision deep-learning tensorflow keras artificial-intelligence remote-sensing unet semantic-segmentation satellite-images pspnet satellite-image-classification
+227 Python
+jr-robotics/robo-gym
+robotics openai-gym reinforcement-learning-environments robo-gym
+227 Python
+antonvladyka/neuralnetworksanddeeplearning.com.pdf
+deep-learning latex neural-networks machine-learning neural-network
+227 TeX
+toxtli/awesome-machine-learning-jupyter-notebooks-for-colab
+machine-learning deep-learning awesome-list awesome jupyter-notebook jupyter-notebooks awesome-lists
+226 Jupyter Notebook
+opendr-eu/opendr
+deep-learning robotics
+226 Python
+NVIDIA-Merlin/Merlin
+deep-learning machine-learning end-to-end recommendation-system gpu-acceleration recommender-system
+225 HCL
+deepqmc/deepqmc
+deep-learning quantum-chemistry electrons quantum-monte-carlo
+224 Python
+neuralet/neuralet
+deep-learning jetson-nano object-detection edge-computing deep-neural-networks ros ros-kinetic ros-melodic edge-ai edgetpu edge-tpu jetsonnano jetson-nano-developer-kit coral-tpu social-distancing social-distancing-detection
+224 Python
+aamini/evidential-deep-learning
+deep-learning tensorflow neural-network pytorch uncertainty evidence confidence neurips-2020
+223 Python
+bogatyy/cs224d
+deep-learning tensorflow natural-language recurrent-neural-networks tensorflow-tutorials tensorflow-examples
+223 Python
+zhzhanp/TCDCN-face-alignment
+matlab face-alignment
+223 MATLAB
+BMW-InnovationLab/BMW-Labeltool-Lite
+deep-learning tensorflow object-detection docker computer-vision image-annotation neural-network label inference boundingbox voc synthetic-data labeling-tool annotaion bounding-box labeltool auto-label yolov4 autolabeling smart-labeling
+223 C#
+mdai/ml-lessons
+deep-learning tutorials
+221 Jupyter Notebook
+Dyakonov/DL
+deep-learning machine-learning lectures slides ml msu dl
+221 
+pranjalchaubey/Deep-Learning-Notes
+deep-learning machine-learning python udacity artificial-intelligence neural-networks udacity-nanodegree udacity-deep-learning
+220 Jupyter Notebook
+maxim5/cs224n-2017-winter
+deep-learning nlp machine-learning stanford-nlp cs224n
+220 HTML
+tostq/DeepLearningC
+c cnn lenet
+219 C++
+BIMSBbioinfo/janggu
+machine-learning bioinformatics deep-learning genomics epigenetics
+218 Jupyter Notebook
+markovka17/dla
+speech-recognition deep-learning tts signal-processing speaker-verification keyword-spotting voice-conversion vocoder
+217 Jupyter Notebook
+AlexImmer/Laplace
+gauss-newton fisher-information approximate-bayesian-inference laplace-approximation
+217 Python
+Rajat-dhyani/Stock-Price-Predictor
+python machine-learning deep-learning numpy jupyter-notebook capstone prediction pandas recurrent-neural-networks lstm stock-prices keras-tensorflow neural-network-algorithm long-short-term-memory stock-price-predictor
+217 HTML
+PRBonn/bonnetal
+semantics detection cnn ros classification imageprocessing features computervision
+217 Python
+YerevaNN/A-Guide-to-Deep-Learning
+deep-learning guide
+216 HTML
+kk7nc/HDLTex
+information-retrieval text-mining deep-neural-networks deep-learning text-classification tensorflow gpu recurrent-neural-networks dataset document-classification convolutional-neural-networks hierarchical-deep-learning science-dataset
+216 Python
+vithursant/MagnetLoss-PyTorch
+pytorch deep-learning docker anaconda cnn embeddings classification metric-learning
+216 Python
+borgwang/tinynn
+deep-learning-library deep-learning-framework project-based-learning
+215 Python
+Jumabek/darknet_scripts
+anchors anchor-box reproduce-yolov2-anchors visualize-genereted-anchors object-detection-anchor generated-anchors
+215 Python
+thuml/HashNet
+deep-learning hashing learning-to-search
+214 Jupyter Notebook
+accel-brain/accel-brain-code
+deep-learning reinforcement-learning deep-reinforcement-learning q-learning lstm generative-adversarial-network semi-supervised-learning restricted-boltzmann-machine transfer-learning simulated-annealing deep-q-network automatic-summarization combinatorial-optimization quantum-monte-carlo auto-encoder quantum-annealing energy-based-model self-supervised-learning multi-agent-reinforcement-learning
+214 Python
+MorvanZhou/Tensorflow-Computer-Vision-Tutorial
+cnn computer-vision lenet deepdream resnet googlenet
+212 Python
+dlsys-course/dlsys-course.github.io
+tutorial course deep-learning
+211 Jupyter Notebook
+microsoft/hivedscheduler
+kubernetes deep-learning containers scheduling artificial-intelligence multi-tenancy gang-scheduling
+210 Go
+dmarnerides/pydlt
+pytorch deep-learning computer-vision toolbox
+210 Python
+sanyuered/WeChat-MiniProgram-WebAR
+augmented-reality ar wechat wechat-mini-program webar markless-augmented-reality natural-feature-tracking
+210 JavaScript
+inoryy/tensorflow2-deep-reinforcement-learning
+tensorflow deep-reinforcement-learning keras advantage-actor-critic a2c tensorflow2
+209 Jupyter Notebook
+keunwoochoi/dl4mir
+deep-learning mir
+208 Jupyter Notebook
+NervanaSystems/he-transformer
+deep-learning tensorflow compiler seal homomorphic-encryption ngraph privacy-preserving
+208 C++
+google-aai/sc17
+deep-learning data-science machine-learning tutorial google-cloud-platform
+207 Jupyter Notebook
+csjcai/SICE
+dataset image-enhancement multi-exposure-fusion
+206 C++
+taylormcnally/keras-rl2 Public archive
+dqn deep-reinforcement-learning algorithms deep atari
+205 Python
+Benjamin-Lee/deep-rules
+bioinformatics deep-learning biology data-science machine-learning genomics computational-biology manuscript manubot
+205 HTML
+khanhnamle1994/MetaRec
+deep-learning pytorch django tensorflow collaborative-filtering matrix-factorization ranking tensorboard boltzmann-machines recommender-systems autoencoders movielens-dataset meta-learning multilayer-perceptron cometml wandb
+205 Python
+filippogiruzzi/voice_activity_detection
+deep-learning tensorflow machine-learning deep-neural-networks python time-series speech artificial-intelligence speech-recognition vad resnet deeplearning time-series-classification voice-activity-detection librispeech speech-detection librispeech-dataset mfcc-features
+204 Python
+MrEliptik/HandPose
+cnn pose-estimation python opencv neural-network tensorflow keras ssd handpose
+204 Python
+declare-lab/multimodal-deep-learning
+multimodal-interactions multimodal-learning multimodal-sentiment-analysis multimodal-deep-learning
+202 OpenEdge ABL
+AndreaVidali/Deep-QLearning-Agent-for-Traffic-Signal-Control
+deep-reinforcement-learning q-learning traffic sumo traffic-signal traffic-light-controller
+202 Jupyter Notebook
+GitHub-HongweiZhang/prediction-flow
+deep-learning pytorch machine-learning torch dnn attention recommendation attention-mechanism wide-and-deep ctr-prediction ctr din deepneuralnetworks deepfm deepinterestnetwork ctr-models dien deepinterestevolutionnetwork prediction-flow
+202 Python
+dcmocanu/sparse-evolutionary-artificial-neural-networks
+deep-learning deep-neural-networks sparsity scalability randomization neuroevolution deep-learning-algorithms classification evolutionary-algorithms artificial-neural-networks restricted-boltzmann-machine complex-networks deep-learning-papers multi-layer-perceptron generative-models sparse-neural-networks scalable-deep-learning sparse-training sparse-evolutionary-training adaptive-sparse-connectivity
+202 Python
+snuspl/nimble
+deep-learning training framework parallel inference gpu-task-scheduling
+201 C++
+uber-research/atari-model-zoo
+deep-learning deep-reinforcement-learning machine-learning research ai uber artificial-intelligence machinelearning atari training-algorithm
+200 Jupyter Notebook
+pinkeshbadjatiya/twitter-hatespeech
+deep-learning hatespeech
+199 Python
+Alfredvc/paac
+reinforcement-learning learning open-source machine-learning tensorflow atari reinforcement paac
+199 Python
+wchstrife/Awesome-Image-Matting
+awesome paper deep-learning-papers image-matting
+198 
+chaoming0625/NumpyDL
+deep-neural-networks deep-learning deep-learning-algorithms deep-learning-tutorial deep-learning-framework
+197 Python
+rmst/ddpg
+reinforcement-learning tensorflow deep-learning
+197 Jupyter Notebook
+PPPW/deep-learning-random-explore
+deep-learning keras lstm fastai cnn-architecture backward-propagation
+196 Jupyter Notebook
+mukeshmithrakumar/Book_List
+machine-learning deep-learning data-science python books algorithms free
+196 
+shudima/notebooks
+deep-learning machine-learning natural-language-processing computer-vision notebooks
+196 Jupyter Notebook
+Hadisalman/smoothing-adversarial
+deep-neural-networks adversarial-machine-learning adversarial-defense
+195 Python
+Kyushik/DRL
+deep-reinforcement-learning dqn tensorflow pygame icm rnd drl ddqn double-dqn prioritized-replay dueling-dqn deep-recurrent-q-network drqn prioritized-experience-replay noisynet-dqn
+194 Python
+mdozmorov/MachineLearning_notes
+machine-learning deep-learning
+193 
+Yunbo426/predrnn-pp
+deep-learning spatio-temporal-modeling video-prediction
+193 Python
+AdalbertoCq/Deep-Learning-Specialization-Coursera
+deep-learning neural-network optimization coursera batch-normalization regularization convolutional-networks
+192 Jupyter Notebook
+FortsAndMills/RL-Theory-book
+reinforcement-learning deep-reinforcement-learning book reinforcement-learning-algorithms rl theory
+192 TeX
+Madhu009/Deep-math-machine-learning.ai
+machine-learning natural-language-processing deep-neural-networks tensorflow word2vec linear-regression q-learning neural-networks reinforcement-learning-algorithms sarsa logistic-regression gans support-vector-machines policy-iteration value-iteration gradient-descent-algorithm monte-carlo-methods temporal-differencing-learning general-adversarial-network
+191 Jupyter Notebook
+heygonzalocaira/Machine-Learning-Deep-Learning-Resources
+deep-learning machine-learning deep-neural-networks neural-network resources awesomelist
+191 
+Spidy20/face_mask_detection
+opencv object-detection object-recognition face-mask tenso deep-lea face-mask-detection
+191 Jupyter Notebook
+cbaziotis/datastories-semeval2017-task4
+sentiment-analysis nlp keras twitter deep-learning neural-network word-embeddings embeddings lstm attention deeplearning glove computational-linguistics semeval attention-mechanism keras-models nlp-machine-learning twitter-messages semeval-sentiment
+191 Python
+M4cs/EasyModels
+ai training tensorflow api-client models-library
+191 Python
+Acmece/rl-collision-avoidance
+reinforcement-learning ros collision-avoidance ppo crowd-navigation
+189 Python
+camrongodbout/TensorFlow-in-a-Nutshell
+tensorflow deep-learning python machine-learning neural-network
+189 Python
+gradsflow/chitra
+deep-learning image-processing pytorch image-classification machine-learning python visualization tensorflow image-dataset object-detection hacktoberfest bounding-boxes model-interpretation model-deployment model-serving model-visualization gradcam mlops fastapi
+189 Python
+hustcxl/Deep-learning-in-PHM
+deep-learning health-management rul fault-diagnosis phm
+188 
+liuyuemaicha/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow
+tensorflow chatbot deep-reinforcement-learning chitchat dialogue-generation
+188 Python
+erdiolmezogullari/ml-projects
+machine-learning deep-learning nlp docker random-forest text-classification tensorflow svm word2vec geolocation keras gensim tensorboard ab-testing spam-classification lstm-neural-networks imbalanced-data kdtree timeseries-analysis mlflow
+188 
+LiamConnell/deep-algotrading
+deep-learning tensorflow lstm reinforcement-learning neural-network policy-gradient
+187 Jupyter Notebook
+Alro10/awesome-deep-neuroevolution
+awesome deep-neural-networks deep-reinforcement-learning neuroevolution evolutionary-algorithms genetic-algorithms evolution-strategies deep-neuroevolution
+187 
+crond-jaist/AutoPentest-DRL
+deep-reinforcement-learning penetration-testing
+186 Python
+ardamavi/Vocalization-Sign-Language-iOS
+deep-learning ios keras tensorflow artificial-intelligence coreml
+186 Swift
+jacobgil/pytorch-zssr
+super-resolution pytorch deep-learning computer-vision
+186 Python
+praveen-palanisamy/macad-gym
+deep-reinforcement-learning autonomous-driving gym-environments carla carla-simulator multi-agent-reinforcement-learning carla-driving-simulator multi-agent-autonomous-driving carla-gym macad-gym carla-rl carla-reinforcement-learning
+186 Python
+sushant097/Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow
+deep-learning tensorflow cnn deep-neural-networks python3 handwritten-text-recognition ctc-loss recurrent-neural-network blstm iam-dataset crnn-tensorflow
+185 Python
+zhangzibin/PairCNN-Ranking
+cnn ranking
+185 Python
+cgarciae/treex
+deep-learning jax
+185 Python
+scaleway/frontalization
+deep-learning pytorch gan machine-learning computer-vision nvidia generative-adversarial-network dali scaleway pytorch-tutorial pytorch-implementation nvidia-dali face-frontalization scaleway-ai
+184 Python
+michuanhaohao/keras_reid
+triplet-loss
+184 Python
+mctorch/mctorch
+deep-learning manifold-optimization
+184 Python
+jindongwang/Deep-learning-activity-recognition
+deep-learning tensorflow pytorch activity-recognition
+183 Python
+BlackHC/BatchBALD
+deep-learning machine-learning reproduction-code activelearning
+183 Python
+hurshd0/must-read-papers-for-ml
+machine-learning deep-learning data-science papers neural-networks recommender-system exploratory-data-analysis recurrent-neural-networks data-analysis convolutional-networks generalized-additive-models rnn-lstm
+183 
+Lextal/SotA-CV
+deep-learning computer-vision research neural-network neural-networks compendium
+183 
+geometalab/OSMDeepOD
+deep-learning openstreetmap machine-learning python bing tensorflow osm convolutional-neural-networks image-segmentation image-detection
+183 Python
+tonybeltramelli/Deep-Spying
+deep-learning security data-science privacy recurrent-neural-networks neural-networks wearable-devices
+182 Python
+Alireza-Akhavan/deep-face-recognition
+face-detection face-recognition deep-learning facenet face-alignment face-verification sphereface center-loss arcface face-embedding amsoftmax deep-face-recognition
+182 Jupyter Notebook
+hamelsmu/ktext
+keras deep-learning machine-learning python-3 nlp-machine-learning ml-infrastructure
+181 Jupyter Notebook
+navjindervirdee/2048-deep-reinforcement-learning
+reinforcement-learning neural-network deep-reinforcement-learning q-learning convolutional-neural-networks deep-q-network deep-q-learning 2048-game
+180 Jupyter Notebook
+tofunlp/lineflow
+natural-language-processing python machine-learning deep-learning
+180 Python
+castorini/castor
+deep-learning
+178 Python
+lijqhs/deeplearning-notes
+deep-learning machine-learning coursera neural-network data-science statistics algorithms notes tensorflow cnn hyperparameter-optimization data-analysis summary deeplearning backpropagation andrew-ng bias-variance sequence-models overfitting
+178 
+millardjn/rusty_sr
+rust machine-learning deep-learning neural-network
+178 Rust
+mesutpiskin/id-card-detector
+deep-learning object-detection python tensorflow cnn id-card faster-rcnn-inception-resnet
+178 Python
+juliuskunze/jaxnet
+deep-learning python machine-learning data-science neural-networks jax
+177 Python
+ebagdasa/backdoors101
+security machine-learning research pytorch adversarial backdoors adversarial-machine-learning federated-learning backdoor-attacks neural-trojan deep-learning-security ml-backdoors deep-learning-backdoors
+177 Python
+Emotional-Text-to-Speech/dl-for-emo-tts
+speech-synthesis tts deep-learning affective-computing tacotron dc-tts ravdess emotional-tts lj-speech tacotron-models
+177 Jupyter Notebook
+RootHarold/Lycoris
+deep-learning machine-learning python python-bindings online-learning neural-architecture-search lycoris
+177 C++
+bo-xiong/Awesome-Deep-Learning-for-Chinese
+deep-learning machine-learning neural-network deep-neural-networks machine-learning-algorithms artificial-intelligence
+176 
+natanielruiz/dockerface
+python computer-vision deep-learning detection face faster-rcnn face-recognition face-detection object-detection rcnn
+176 Dockerfile
+wenwei202/terngrad
+deep-learning deep-neural-networks sgd quantization data-parallelism distributed-training
+175 Python
+dvgodoy/PyTorchStepByStep
+pytorch deep-learning python pytorch-tutorial rnn-pytorch cnn-pytorch
+175 Jupyter Notebook
+QueensGambit/CrazyAra
+deep-learning machine-learning python open-source chess-engine mxnet artificial-intelligence mcts gluon lichess convolutional-neural-network alphago python-chess alphazero crazyhouse mcgs
+174 Jupyter Notebook
+AI-performance/embedded-ai.bench
+android ios benchmark arm inference artificial-intelligence arm-neon mnn deep-learning-framework ncnn tensorflow-lite embedded-ai deep-learning-inference tnn
+174 Python
+mattiasegu/uncertainty_estimation_deep_learning
+deep-learning uncertainty-neural-networks
+173 Python
+koba-jon/pytorch_cpp
+deep-learning pytorch object-detection linux cpp dcgan yolo autoencoder vae dimensionality-reduction convolutional-autoencoder pix2pix semantic-segmentation multiclass-classification anomaly-detection image-to-image-translation u-net libtorch generative-modeling dagmm
+173 C++
+bricewalker/Hey-Jetson
+deep-learning speech-recognition keras tensorflow css python html flask deep-neural-networks sentiment-analysis azure rest-api inference recurrent-neural-networks attention automatic-speech-recognition speech-to-text azure-cognitive-services jetson-tx2 nvidia-jetson-tx2
+173 Jupyter Notebook
+lartpang/Machine-Deep-Learning
+python linux learning machine-learning notes tensorflow pytorch summary deeplearning cs231n thinking deepthinking
+172 
+neopenx/Dragon
+python vm graph cuda memory-efficient
+172 C++
+louis-she/minetorch
+pytorch tools mnist digits tensorboard ignite pytorch-visualization torchpack
+172 Python
+murthylab/sleap
+deep-learning behavior-analysis leap pose-estimation animal-tracking animal-pose-estimation sleap
+171 Python
+PacktPublishing/Deep-Learning-with-TensorFlow
+machine-learning tensorflow deep-learning deep-neural-networks
+170 Python
+shekkizh/TensorflowProjects
+tensorflow deepdream unsupervised-learning neural-style context-encoder model-pruning cppn neural-art
+170 Python
+flyingpot/pytorch_deephash
+pytorch deep-learning hash image-retrieval deephash
+170 Python
+abhishekkrthakur/clickbaits_revisited
+deep-learning machine-learning clickbait
+170 Python
+ukairia777/tensorflow-nlp-tutorial
+tensorflow nlp question-answering natural-language-processing named-entity-recognition bert keras-tutorial nlp-tutorial bert-ner
+170 Jupyter Notebook
+MarkoArsenovic/DeepLearning_PlantDiseases
+deep-learning pytorch occlusion cnn-classification pytorch-cnn pytorch-classification pytorch-transfer-learning pytorch-cnn-classification pytorch-models deep-learning-visualization pytorch-visualization deep-learning-cnn
+169 Python
+hli1221/imagefusion_deeplearning
+deep-learning vgg19 image-fusion multi-layers-strategy
+169 MATLAB
+hclhkbu/dlbench
+deep-learning benchmark
+169 Python
+SamsungLabs/pytorch-ensembles
+pytorch deep-learning uncertainty ensembles iclr2020
+169 Jupyter Notebook
+AdneneBoumessouer/MVTec-Anomaly-Detection
+unsupervised convolutional-autoencoder ssim anomaly-detection auto-encoder structural-similarity mvtec surface-inspection anomaly-segmentation anomaly-localization
+169 Python
+rahul-raj/Java-Deep-Learning-Cookbook
+neural-network machine-learning time-series classification artificial-neural-networks reinforcement-learning nlp linear-regression regression cookbook artificial-intelligence machinelearning deeplearning nlp-machine-learning binary-classification dl4j deeplearning4j java-machine-learning dl4j-tutorials dl4j-cookbook
+168 Java
+CODAIT/deep-histopath
+deep-learning machine-learning medicine medical-imaging cancer-research
+168 Jupyter Notebook
+JingqingZ/BaiduTraffic
+dataset deep-learning traffic traffic-data traffic-prediction
+168 Python
+sudharsan13296/Deep-Reinforcement-Learning-With-Python
+reinforcement-learning deep-learning deep-reinforcement-learning openai-gym q-learning dqn policy-gradient a3c ddpg sac inverse-reinforcement-learning actor-critic bellman-equation double-dqn trpo c51 ppo a2c td3
+167 Jupyter Notebook
+merrymercy/tvm-mali
+deep-learning opencl arm mali tvm
+167 C
+thu-vis/JittorVis
+deep-learning visualization neural-network visual-analytics explainable-artiticial-intelligence
+167 Python
+ryderling/DEEPSEC
+adversarial-attacks adversarial-examples deep-leaning defenses
+166 Python
+materialsvirtuallab/maml
+machine-learning deep-learning materials-science spectroscopy machine-learning-force-field materials-discovery
+166 Python
+zilongzhong/SSRN
+deep-learning supervised-learning hyperspectral-image-classification spectral-spatial-residual-network
+166 Python
+LuckyZXL2016/Deep-Learning-Papers-Reading-Roadmap
+deep-neural-networks deep-learning tensorflow deep-reinforcement-learning papers
+165 
+mzaradzki/neuralnets
+keras tensorflow theano
+165 Jupyter Notebook
+knowledgedefinednetworking/a-deep-rl-approach-for-sdn-routing-optimization
+deep-reinforcement-learning sdn routing-optimization traffic-engineering knowledge-defined-networking software-defined-networking
+165 Python
+RubensZimbres/Repo-2018
+tensorflow computer-vision keras raspberry-pi opencv iot coco aws-ec2 ec2-instance aws-iot opencv-library generative-adversarial-networks raspberry-pi-3 opencv3 cyclegan haarcascade sagemaker yolo-model ubuntucore aws-sagemaker
+165 Jupyter Notebook
+robi56/Survival-Analysis-using-Deep-Learning
+deep-learning machine-learning time-series healthcare survival-analysis bayesian-inference gaussian-processes cancer-research time-to-event
+164 
+dyadxmachina/Applied-Deep-Learning-with-TensorFlow
+deep-learning tensorflow deep-neural-networks google-cloud distributed-deep-learning cloud-machine-learning-engine christian-fanli-ramsey
+164 Jupyter Notebook
+akshaysharma096/Siamese-Networks
+machine-learning keras deep convolutional-neural-network keras-neural-networks siamese-network few-shot-learning
+163 Jupyter Notebook
+aonotas/deep-crf
+deep-learning neural-network crf sequence-tagger
+163 Python
+batra-mlp-lab/visdial-rl
+pytorch deep-learning natural-language-processing computer-vision visual-dialog
+163 Python
+marctuscher/DRQN-tensorflow
+tensorflow gym openai-gym retro dqn sonic atari drqn openai-retro
+163 Python
+ModelZoo/ModelZoo
+deep-learning tensorflow keras modelzoo
+163 Python
+krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics
+machine-learning mathematics linear-algebra deep-learning algorithm static-analysis probability gradient-descent approximation-algorithms machine-learning-mathematics deep-learning-mathematics advanced-probability
+161 
+danijar/mindpark
+reinforcement-learning deep-learning tensorflow research artificial-intelligence
+161 Python
+sungyubkim/Deep_RL_with_pytorch
+deep-reinforcement-learning pytorch dqn mcts uct c51 iqn hedge ppo a2c gail counterfactual-regret-minimization qr-dqn random-network-distillation soft-actor-critic self-imitation-learning
+161 Jupyter Notebook
+nuno-faria/tetris-ai
+deep-reinforcement-learning tetris q-learning game-ai
+161 Python
+arunponnusamy/gender-detection-keras
+deep-learning keras python machine-learning computer-vision face-detection gender-classification gender-detection cvlib
+161 Python
+floydhub/dockerfiles
+deep-learning docker pytorch tensorflow torch
+160 Python
+sooftware/attentions
+pytorch attention multi-head-attention location-sensitive-attension dot-product-attention location-aware-attention additive-attention relative-positional-encoding relative-multi-head-attention
+160 Python
+pmorerio/dl-uncertainty
+deep-learning computer-vision uncertainty bayesian
+160 Python
+oap-project/raydp
+spark ray
+160 Python
+Auto-DL/Auto-DL
+hacktoberfest react python markdown deep-learning django-rest-framework autodl automated-deep-learning auto-dl
+160 JavaScript
+dougbrion/pytorch-classification-uncertainty
+pytorch paper uncertainty mnist classification mnist-classification uncertainty-neural-networks torchvision evidential-deep-learning dirichlet-distributions
+159 Python
+imjoy-team/ImJoy
+javascript python deep-learning webassembly image-processing imjoy
+158 JavaScript
+jveitchmichaelis/deeplabel
+object-detection deep-learning image-annotation annotation labeling bounding-boxes kitti annotate-images object-detection-label image-labeling-tool
+157 C++
+maxbren/GO-Bot-DRL
+chatbot deep-reinforcement-learning user-simulator
+157 Python
+waleedka/modern-deep-learning-docker
+python deep-learning docker-image
+156 
+ryanfwy/image-similarity
+deep-learning tensorflow deep-neural-networks keras neural-networks
+155 Python
+embedeep/Free-TPU
+fpga zynq free tpu npu cnn-accelerator
+155 Shell
+supercoderhawk/DeepLearning_NLP
+natural-language-processing deep-learning tensorflow named-entity-recognition relation-extraction chinese-word-segmentation chinese-tokenizer
+154 Python
+ronekko/deep_metric_learning
+deep-learning metric-learning python chainer
+154 Python
+ethz-asl/hierarchical_loc
+learning localization descriptors mobilenetvlad
+154 Python
+abojchevski/graph2gauss
+tensorflow graphs embeddings
+154 Python
+GMvandeVen/brain-inspired-replay
+deep-learning artificial-neural-networks replay incremental-learning variational-autoencoder lifelong-learning distillation brain-inspired continual-learning elastic-weight-consolidation replay-through-feedback split-mnist generative-replay permuted-mnist split-cifar100 internal-replay synaptic-intelligence
+154 Python
+dragen1860/MAML-TensorFlow
+machine-learning tensorflow metalearning
+154 Python
+ain-soph/trojanzoo
+pytorch adversarial-attacks deep-learning image-classification backdoor-attacks
+154 Python
+HannesStark/EquiBind
+geometry proteins protein-structure drug-discovery molecules graph-neural-networks equivariance
+154 Python
+neeilan/DeepPlayByPlay
+deep-learning nba computer-vision nba-analytics
+153 Python
+illidanlab/Simulator
+simulator fleet-management multi-agent-reinforcement-learning
+153 Python
+tariqdaouda/Mariana
+python data-science machine-learning deep-neural-networks theano deep-learning machine-learning-algorithms artificial-intelligence deep-learning-algorithms artificial-neural-networks deep-learning-library machinelearning deeplearning
+153 JavaScript
+JordiCorbilla/stock-prediction-deep-neural-learning
+deep-learning machine-learning finance deep-neural-networks recurrent-neural-networks cryptocurrency lstm-model market-data stock-prices lstm-neural-networks stock-prediction yfinance
+152 Python
+floydhub/floyd-cli
+python machine-learning ai deep-learning tensorflow gpu pytorch artificial-intelligence floyd floyd-cli floydhub
+152 Python
+Moving-AI/virtual-walk
+tensorflow google-maps virtual-reality lstm-model webcam google-street posenet
+152 Python
+CleanPegasus/TensorDash
+deep-learning tensorflow keras android python machine-learning java pypi pytorch fastai python-package remote-monitoring
+152 Java
+philipperemy/tensorflow-class-activation-mapping
+deep-learning cnn tensorflow machine-learning discriminative-image-regions lenet
+151 Python
+henrysky/astroNN
+python science neural-network astronomy tensorflow neural-networks astrophysics
+151 Python
+zhongpeixiang/AI-NLP-Paper-Readings
+nlp natural-language-processing deep-learning paper machine-learning python ai neural-network word-embeddings cnn artificial-intelligence eeg rnn seq2seq reading-list natural-language-generation affective-computing dialogue-systems emotion-recognition graph-neural-networks
+151 
+BayesWatch/deep-kernel-transfer
+deep-learning kernel paper regression uncertainty bayesian-methods classification kernel-methods one-shot-learning uncertainty-quantification gaussian-processes kernels meta-learning shot-learning deep-kernel-learning few-shot-learning gpytorch
+150 Python
+SirRob1997/Crowded-Valley---Results
+deep-learning deep-neural-networks sgd deeplearning adam-optimizer deep-learning-optimizers
+150 
+jgvictores/awesome-deep-reinforcement-learning
+awesome-list deep-neural-networks reinforcement-learning deep-reinforcement-learning drl drl-frameworks
+149 
+nasa/delta
+deep-learning machine-learning remote-sensing usg-artificial-intelligence
+149 Python
+alxndrkalinin/awesome-deepneuroimage
+deep-learning deep-neural-networks neuroimaging neurological-image-analysis
+149 
+jimkon/Deep-Reinforcement-Learning-in-Large-Discrete-Action-Spaces
+deep-reinforcement-learning ddpg wolpertinger discrete-actions
+149 Python
+QuantumBFS/SSSS
+quantum-computing deep-learning julia-language yao
+149 Jupyter Notebook
+SaltieRL/Saltie
+tensorflow reinforcement-learning distributed-systems rocket-league
+149 Python
+shkrwnd/Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access
+reinforcement-learning tensorflow distributed dqn networks multi-agent-system
+148 Jupyter Notebook
+harveyslash/Deep-Steganography
+deep-learning tensorflow deep-neural-networks tensorflow-experiments convolutional-neural-networks autoencoders nips-2017
+148 Jupyter Notebook
+aras62/vision-based-prediction
+deep-learning dataset metrics papers video motion actions prediction vision trajectory
+148 TeX
+amiralansary/rl-medical
+reinforcement-learning deep-learning deep-reinforcement-learning tensorflow python machine-learning neural-network medical-imaging landmark-detection reproducibility medical-images drl dqn-variants rl-medical agents-applied
+148 Python
+vita-epfl/trajnetplusplusbaselines
+benchmark datasets orca social-lstm kalman-filter social-force-model crowd-dynamics human-trajectory-prediction social-gan trajectory-prediction-benchmark human-trajectory
+148 Python
+hshindo/Merlin.jl
+machine-learning deep-learning julia neural-networks
+147 Julia
+Yvanali/Deep-Learning-for-LiDAR-Point-Clouds
+tensorflow point-cloud pytorch cvpr iccv 3d-point-clouds nips kitti eccv lidar-point-cloud 3d-detection
+146 
+didi/dlflow
+tensorflow deeplearning deeplearning-framework
+146 Python
+LahiruJayasinghe/RUL-Net
+regression convolutional-neural-networks sensor-fusion remaining-useful-life long-short-term-memory 1d-convolution lstm-cnn augmentaiton
+146 Python
+rstudio-conf-2020/dl-keras-tf
+deep-learning workshop r machine-learning keras-tensorflow
+145 HTML
+shunk031/paper-survey
+natural-language-processing machine-learning survey summary arxiv deep-learning-papers arxivtimes
+145 HTML
+victorca25/traiNNer
+super-resolution convolutional-neural-networks pix2pix upscale image-restoration deblurring denoising cyclegan esrgan cartoonization srflow real-esrgan bsrgan real-sr
+145 Python
+chasingbob/deep-learning-resources
+python machine-learning deep-learning neural-network tensorflow keras lstm matplotlib
+144 
+khuyentran1401/machine-learning-articles
+deep-learning ai neural-network artificial-intelligence datascience awesome-list machinelearning articles-summaries
+144 HTML
+aliakbar09a/AI_plays_snake
+neural-network reinforcement-learning ai deep-learning genetic-algorithm
+144 Python
+natasha/slovnet
+nlp ner russian python syntax machine-learning deep-learning morphology pytorch bert
+144 Python
+kylemath/DeepEEG
+deep-learning machine-learning neuroscience eeg keras-tensorflow
+143 Jupyter Notebook
+markovmodel/deeptime
+deep-learning time-series python markov-model machine-learning tensorflow computational-biology pytorch computational-chemistry autoencoder data-analysis dimension-reduction
+143 Jupyter Notebook
+jack-willturner/deep-compression
+pytorch sparsity deep-learning pruning
+143 Jupyter Notebook
+cyoon1729/deep-Q-networks Public archive
+reinforcement-learning q-learning pytorch deep-q-network
+143 Jupyter Notebook
+sdhnshu/Pytorch-Model-Zoo
+deep-learning pytorch collection models neural-networks
+143 Jupyter Notebook
+TianhaoFu/Awesome-3D-Object-Detection
+deep-learning object-detection python machine-learning deep-neural-networks computer-vision paper point-cloud reading-list papers study-notes autonomous-driving point-clouds cvpr 3d-representation point-cloud-processing point-cloud-detection cvpr2020 cvpr2021 cvpr2022
+143 
+Raymond-sci/AND
+machine-learning deep-learning unsupervised-learning
+143 Python
+kuixu/3d-deep-learning
+deep-learning 3d volumetric-data 3d-shapes
+142 
+nikhilroxtomar/Deep-Residual-Unet
+tensorflow fcn semantic-segmentation keras-tensorflow resunet
+142 Jupyter Notebook
+georgymh/ml-fraud-detection
+machine-learning python deep-neural-networks kaggle logistic-regression k-means
+142 Jupyter Notebook
+CRIPAC-DIG/GRACE
+deep-learning machine-learning graph-representation-learning contrastive-learning
+142 Python
+HaozhiQi/ISONet
+visual-recognition icml deep-isometric-learning
+141 Python
+nikitakaraevv/pointnet
+pytorch deep-learning segmentation computer-vision point-cloud classification pointnet 3d-classification
+141 Jupyter Notebook
+hugochan/IDGL
+graph-neural-networks deep-learning pytorch robustness graph-learning
+141 Python
+anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning
+deep-learning machine-learning convolutional-neural-networks theano random-forest tensorflow keras python-3-5 classification mnist-classification knn svm-model handwritten-digit-recognition
+140 Python
+jaron/deep-listening
+keras deep-learning jupyter-notebook
+140 Jupyter Notebook
+FanzhenLiu/Awesome-Deep-Community-Detection
+network-embedding deep-learning awesome graph-neural-networks data-mining community-detection survey graph-clustering graph-embedding deep-neural-network network-representation-learning graph-neural-network
+140 
+MousaviSajad/SleepEEGNet
+deep-learning tensorflow cnn eeg rnn sequence-to-sequence biomedical biosignals sleep-stage-scoring
+140 Python
+Nasdin/ReinforcementLearning-AtariGame
+pytorch reinforcement-learning deep-reinforcement-learning python openai-gym lstm reinforcement-learning-algorithms a3c universe adam rmsprop actor-critic asynchronous-advantage-actor-critic reinforcement-agents a3c-lstm
+140 Jupyter Notebook
+quanvuong/handful-of-trials-pytorch
+reinforcement-learning ensemble-learning probabilistic-models model-based-rl model-based-reinforcement-learning
+140 Python
+the-black-knight-01/Tabulo
+deep-learning tensorflow ocr python detection tesseract ssd sonnet faster-r-cnn table-recognition table-detection pdf-table-extraction luminoth table-detection-using-deep-learning tabulo table-data-extraction
+140 Python
+aws/sagemaker-pytorch-training-toolkit
+docker aws pytorch sagemaker
+140 Python
+GRAAL-Research/deepparse
+python machine-learning addresses-parsing
+139 Python
+FelixMohr/Deep-learning-with-Python Public archive
+deep-learning gan generative-adversarial-network python tensorflow python3 lstm style-transfer dcgan neural-networks vae tensorflow-tutorials variational-autoencoder
+138 Jupyter Notebook
+prathimacode-hub/ML-ProjectKart
+machine-learning python deep-learning open-source hacktoberfest natural-language-processing computer-vision algorithms machine-learning-algorithms projects python3 scripts-collection beginner-friendly algorithms-datastructures contributions-welcome algorithms-and-data-structures hacktoberfest2021
+138 Jupyter Notebook
+imfing/audio-classification
+deep-learning
+138 Python
+YuriyGuts/snake-ai-reinforcement
+reinforcement-learning deep-learning machine-learning game ai dqn
+138 Python
+AlexOlsen/DeepWeeds
+deep-learning dataset image-dataset inceptionv3 queensland weed resnet-50 weed-species
+137 C++
+joaopauloschuler/neural-api
+neural-network computer-vision artificial-neural-networks lazarus learning delphi pascal intelligence network opencl deep artificial-intelligence artificial free fpc densenet neural cifar10 free-pascal cifar-10
+137 Pascal
+Geo-Joy/Deep-Learning-for-Time-Series-Forecasting
+deep-learning deep-neural-networks time-series-prediction time-series-forecasting deep-learning-time-series
+136 
+apache/tvm-vta
+machine-learning hardware tensor tvm vta
+136 Scala
+as-ideas/DeepPhonemizer
+pytorch deep-learning transformer ipa phonemes g2p grapheme-to-phoneme phonemization
+136 Python
+matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub
+deep-learning model-zoo matlab pretrained-models matlab-deep-learning
+136 MATLAB
+cair/deep-rts
+reinforcement-learning deep-learning deep-reinforcement-learning artificial-intelligence machine-learning ai game python cpp neural-networks tree-search per-arne
+136 C++
+yusugomori/deeplearning-tf2
+deep-learning tensorflow keras tensorflow2
+136 Python
+Sahith02/machine-learning-algorithms
+machine-learning machine-learning-algorithms python neural-network deep-learning classification tutorial regression deep-learning-algorithms implementation trees deep-learning-tutorial implementation-of-algorithms
+136 Python
+dccuchile/CC6204
+deep-learning pytorch uchile
+136 Jupyter Notebook
+SciML/RecursiveArrayTools.jl
+scientific-machine-learning sciml vector array recursion
+136 Julia
+Tebs-Lab/intro-to-deep-learning
+deep-learning education deep-neural-networks ai deep-reinforcement-learning
+135 Jupyter Notebook
+vithursant/terraform-aws-spotgpu
+terraform deep-learning automation spot-instances aws-ec2 gpu-instance
+135 HCL
+xilaili/AOGNet
+deep-learning deep-neural-networks computer-vision mxnet imagenet image-classification cifar10 cifar100 aognet
+135 Python
+CommissarMa/Crowd_counting_from_scratch
+deep-learning computer-vision crowd-counting
+134 Python
+uci-cbcl/D-GEX
+deep-learning gene-expression
+133 Python
+kingfengji/DeepMIML
+multi-instance-multi-label-learning miml deepmiml
+132 Python
+luozachary/drl-rec
+deep-reinforcement-learning recommender-system
+132 Python
+qyzdao/Sketch-Based-Deep-Learning
+deep-learning sketch papers line-drawing
+132 
+logictensornetworks/logictensornetworks
+tensorflow machinelearning logic-programming fuzzy-logic
+132 Jupyter Notebook
+Zhenye-Na/advanced-deep-learning-and-reinforcement-learning-deepmind
+reinforcement-learning deep-learning deep-reinforcement-learning deepmind ucl
+131 Jupyter Notebook
+TF2-Engine/TF2
+deep-learning fpga quantization opencl inference cnn dnn model-pruning model-compression
+131 Python
+GarethRichards/Machine-Learning-CPP
+neural-network deep-learning cpp
+131 C++
+Daniel-Liu-c0deb0t/Java-Machine-Learning
+deep-learning java
+131 Java
+vivek3141/dl-visualization
+neural-network animations visualizations neural-network-visualizations manim
+131 Jupyter Notebook
+albertpumarola/deep-learning-notes
+deep-learning cnn computer-vision neural-network convnet study-notes cs231n
+130 TeX
+GKalliatakis/Adventures-in-deep-learning
+deep-learning machine-learning neural-network ml convolutional-neural-networks deep-learning-tutorial deep-convolutional-networks
+130 
+JasonYao81000/MLDS2018SPRING
+reinforcement-learning spring chatbot generative-adversarial-network gan policy-gradient seq2seq image-generation sequence-to-sequence chat-bot ntu deep-q-network text-to-image actor-critic video-captioning 2018 chinese-chatbot hung-yi-lee mlds2018spring mlds
+130 Python
+takuseno/d4rl-pybullet
+deep-reinforcement-learning dataset data-driven-reinforcement-learning
+130 Python
+Natooz/MidiTok
+midi music machine-learning deep-learning music-information-retrieval generative-model music-generation
+130 Python
+DanRuta/jsNet
+webassembly javascript nodejs wasm machine-learning ai deep-learning neural-networks convolutional-neural-networks
+130 JavaScript
+aws-samples/deep-learning-models
+deep-learning aws
+129 Python
+carlosfab/sigmoidal_ai
+data-science python machine-learning deep-learning pandas neural-networks xgboost matplotlib convolutional-neural-networks
+129 Jupyter Notebook
+Issam28/Brain-tumor-segmentation
+deep-learning computer-vision tensorflow convolutional-networks mri-images cnn-keras u-net brain-tumor-segmentation
+129 Python
+ndrplz/machine_learning_lectures
+machine-learning deep-learning tensorflow deep-neural-networks reinforcement-learning machine-learning-algorithms tutorials tensorflow-tutorials lecture-notes deep-learning-tutorial lecture-material tutorial-exercises machine-learning-tutorials
+129 TeX
+deep-philology/DeepReader
+vue reader reading-system
+129 Vue
+AndrejOrsula/drl_grasping
+reinforcement-learning robotics pytorch octree deep-reinforcement-learning openai-gym grasping ros2 curriculum-learning sim2real domain-randomization gym-ignition ignition-gazebo stable-baselines3
+129 Python
+cjy1992/interp-e2e-driving
+deep-reinforcement-learning carla-simulator latent-representations
+129 Python
+satinder147/DeepWay
+opencv convolutional-neural-networks cnn tensorflow keras arduino blind gpu computer dlib servo-motor road
+128 Python
+vermouth1992/drl-portfolio-management
+machine-learning deep-reinforcement-learning portfolio-management
+128 Jupyter Notebook
+snuspl/parallax
+deep-learning machine-learning python deep-neural-networks tool ml parallelization distributed
+128 Python
+gradientinstitute/aboleth
+deep-neural-networks deep-learning tensorflow bayesian-inference gaussian-processes bayesian-machine-learning
+128 Python
+npatta01/web-deep-learning-classifier
+deep-learning fastai pytorch heroku neural-network
+127 Jupyter Notebook
+Machine-Learning-Tokyo/Deep_Reinforcement_Learning
+reinforcement-learning deep-reinforcement-learning resources
+127 
+furkanu/deeplearning.ai-pytorch
+pytorch deep-learning coursera-deep-learning coursera-specialization
+127 Jupyter Notebook
+nicklashansen/voice-activity-detection
+deep-learning convolutional-neural-networks recurrent-neural-networks pytorch deep-neural-networks densenet voice-activity-detection focal-loss
+127 Jupyter Notebook
+Ujwal2910/Smart-Traffic-Signals-in-India-using-Deep-Reinforcement-Learning-and-Advanced-Computer-Vision
+reinforcement-learning deep-learning opencv machine-learning simulation emulation simulation-environment image-processing deep-reinforcement-learning traffic-analysis video-processing sumo sumologic visionprocessing traffic-simulation shadow-removal indian-traffic smart-traffic-signals rl-agent-learning
+127 Python
+idearibosome/srzoo
+super-resolution deep-learning tensorflow
+127 Python
+xxxnell/flex
+scala functional-programming statistics data-stream probability probability-distribution probability-density-function
+126 Scala
+cwerner/fastclass
+gui deep-learning labeling
+126 Python
+lawlite19/DeepLearning_Python
+cnn deeplearning
+125 HTML
+Kchu/DeepRL_PyTorch
+reinforcement-learning pytorch algorithm algorithms dqn quota c51 iqn qr-dqn distributional-rl
+125 Python
+simonmeister/pysc2-rl-agents
+deep-reinforcement-learning tensorflow a3c starcraft-ii a2c pysc2 pysc2-agent pysc2-mini-games
+125 Python
+HRNet/HRNet-MaskRCNN-Benchmark
+object-detection faster-rcnn mask-rcnn hrnets
+125 Python
+amoudgl/pygoturn
+pytorch deep-learning computer-vision tracker visual-tracking object-tracking goturn
+125 Jupyter Notebook
+linkedin/Avro2TF
+deep-learning machine-learning tensorflow linkedin
+125 Scala
+ModelChimp/modelchimp
+deep-learning machine-learning platform experiment data-science ai tool ml artificial-intelligence model-management
+124 JavaScript
+shaohua0116/VAE-Tensorflow
+tutorial computer-vision vae variational-autoencoder
+124 Jupyter Notebook
+botkop/scorch
+pytorch deep-learning scala autograd
+124 Scala
+timsainb/ParametricUMAP_paper
+machine-learning dimensionality-reduction representation-learning umap semisupervised-learning
+124 Jupyter Notebook
